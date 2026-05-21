@@ -48,7 +48,7 @@ console is expected when running outside a device.
 Prerequisites:
 
 - **Node.js 22 LTS** (? 22.12) — required by Angular 20.
-- **Android Studio** + JDK 17 — only needed to build the Android app.
+- **Android Studio** + JDK 21 — only needed to build the Android app.
 - **Xcode + CocoaPods** on macOS — only needed to build the iOS app.
 
 ```powershell
@@ -81,7 +81,7 @@ The workflow at `.github/workflows/ci.yml` runs on every push / PR to
 1. Installs Node 22 + caches `npm`.
 2. Builds the PWA (`npm run build`) and uploads `www/` as an artifact named
    **`web-pwa`**.
-3. Sets up JDK 17 + Gradle, syncs Capacitor, and builds a **debug APK**
+3. Sets up JDK 21 + Gradle, syncs Capacitor, and builds a **debug APK**
    (`assembleDebug`), uploaded as **`app-debug-apk`**.
 
 Open **GitHub ? Actions ? latest run ? Artifacts** to download either zip and
