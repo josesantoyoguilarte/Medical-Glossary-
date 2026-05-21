@@ -69,7 +69,9 @@ jobs:
 
       - name: Build debug APK
         working-directory: MedicalGlossaryV2/android
-        run: ./gradlew assembleDebug --no-daemon
+        run: |
+          chmod +x ./gradlew
+          ./gradlew assembleDebug --no-daemon
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
