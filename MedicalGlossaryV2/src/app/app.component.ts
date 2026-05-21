@@ -1,4 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+
+import { SettingsService } from './core/settings.service';
+import { UserDataService } from './core/user-data.service';
 
 @Component({
   selector: 'app-root',
@@ -7,5 +10,8 @@ import { Component } from '@angular/core';
   standalone: false,
 })
 export class AppComponent {
-  constructor() {}
+  // Construct eagerly so persisted theme/font-scale and favorites/history
+  // are loaded before the first view renders.
+  private readonly settings = inject(SettingsService);
+  private readonly userData = inject(UserDataService);
 }

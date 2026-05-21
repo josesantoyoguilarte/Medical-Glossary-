@@ -2,6 +2,15 @@
   <ion-toolbar>
     <ion-title>Glossary</ion-title>
     <ion-buttons slot="end">
+      <ion-button
+        (click)="toggleFavoritesFilter()"
+        [color]="favoritesOnly() ? 'warning' : ''"
+        [attr.aria-label]="favoritesOnly() ? 'Show all terms' : 'Show favorites only'">
+        <ion-icon
+          slot="icon-only"
+          [name]="favoritesOnly() ? 'star' : 'star-outline'">
+        </ion-icon>
+      </ion-button>
       <ion-select
         aria-label="Language"
         interface="popover"
@@ -26,12 +35,25 @@
 <ion-content [fullscreen]="true">
   <ion-list lines="full">
     <ng-container *ngIf="!loading; else loadingTpl">
-      <ion-item *ngIf="results.length === 0">
-        <ion-label color="medium">No matching terms.</ion-label>
+      <ion-item *ngIf="visibleResults().length === 0">
+        <ion-label color="medium">
+          {{ favoritesOnly() ? 'No favorites yet — tap the star on a term to add it.' : 'No matching terms.' }}
+        </ion-label>
       </ion-item>
 
-      <ng-container *ngFor="let t of results; trackBy: trackByUuid">
+      <ng-container *ngFor="let t of visibleResults(); trackBy: trackByUuid">
         <ion-item button (click)="toggle(t.uuid)">
+          <ion-button
+            fill="clear"
+            slot="start"
+            (click)="toggleFavorite($event, t.uuid)"
+            [attr.aria-label]="isFavorite(t.uuid) ? 'Remove from favorites' : 'Add to favorites'">
+            <ion-icon
+              slot="icon-only"
+              [name]="isFavorite(t.uuid) ? 'star' : 'star-outline'"
+              [color]="isFavorite(t.uuid) ? 'warning' : 'medium'">
+            </ion-icon>
+          </ion-button>
           <ion-label>
             <h2>{{ t.term }}</h2>
             <p *ngIf="t.definition" [innerHTML]="t.definition"></p>
