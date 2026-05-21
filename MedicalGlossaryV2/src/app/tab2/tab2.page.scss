@@ -1,0 +1,57 @@
+.hint {
+  color: var(--ion-color-medium);
+  margin-bottom: 1rem;
+}
+
+.diagram-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.diagram-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.region {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  background: rgba(56, 128, 255, 0.05);
+  border: 2px solid rgba(56, 128, 255, 0.45);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 120ms ease, border-color 120ms ease;
+  color: var(--ion-color-primary-contrast, #fff);
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  &:hover,
+  &:focus-visible {
+    background: rgba(56, 128, 255, 0.18);
+    border-color: var(--ion-color-primary);
+    outline: none;
+  }
+
+  &:active {
+    background: rgba(56, 128, 255, 0.35);
+  }
+}
+
+.region-label {
+  background: var(--ion-color-primary);
+  color: var(--ion-color-primary-contrast, #fff);
+  font-size: 0.7rem;
+  padding: 1px 4px;
+  border-radius: 3px;
+  margin: 2px;
+  white-space: nowrap;
+  pointer-events: none;
+  opacity: 0.85;
+}

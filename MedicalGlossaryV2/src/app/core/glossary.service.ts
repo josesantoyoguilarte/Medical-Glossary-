@@ -125,8 +125,22 @@ export class GlossaryService {
   // ---- helpers -----------------------------------------------------------
 
   /** Resource URL for an audio file referenced by a conversation/entry. */
-  audioUrl(filename: string): string {
-    return `${this.base}/audio/${filename}`;
+  audioUrl(filename: string, subfolder?: string): string {
+    return subfolder
+      ? `${this.base}/audio/${subfolder}/${filename}`
+      : `${this.base}/audio/${filename}`;
+  }
+
+  /**
+   * Resolve the URL for a conversation audio clip. The legacy data lays out
+   * pain-questionnaire audio under `audio/conversation_crj/` (East Cree
+   * Southern) and `audio/conversation_crl/` (Northern); we pick the folder
+   * based on the locale tag attached to the translation row.
+   */
+  conversationAudioUrl(filename: string, locale: string): string {
+    const folder =
+      locale === 'crl' ? 'conversation_crl' : locale === 'crj' ? 'conversation_crj' : '';
+    return this.audioUrl(filename, folder || undefined);
   }
 
   /** Resource URL for a diagram/image asset. */

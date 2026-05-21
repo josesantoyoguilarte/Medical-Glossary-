@@ -5,9 +5,23 @@
 </ion-header>
 
 <ion-content [fullscreen]="true" class="ion-padding">
-  <h2>Body diagrams</h2>
-  <p>
-    Interactive body-region diagrams will be migrated here from the legacy
-    image-map implementation as inline SVG. Coming in a follow-up step.
+  <p class="hint">
+    Tap a region of the diagram to hear the Cree pronunciation.
   </p>
+
+  <div class="diagram-wrap">
+    <img [src]="imageUrl" alt="Body diagram" class="diagram-img" />
+    <button
+      *ngFor="let r of regions; trackBy: trackByLabel"
+      type="button"
+      class="region"
+      [attr.aria-label]="r.label + ' — play pronunciation'"
+      [style.left.%]="r.x"
+      [style.top.%]="r.y"
+      [style.width.%]="r.w"
+      [style.height.%]="r.h"
+      (click)="play(r)">
+      <span class="region-label">{{ r.label }}</span>
+    </button>
+  </div>
 </ion-content>
