@@ -1,17 +1,41 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
-    <ion-title>
-      Tab 3
-    </ion-title>
+    <ion-title>More</ion-title>
   </ion-toolbar>
 </ion-header>
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Tab 3</ion-title>
-    </ion-toolbar>
-  </ion-header>
+  <ion-list inset="true">
+    <ion-list-header>
+      <ion-label>Language</ion-label>
+    </ion-list-header>
+    <ion-item>
+      <ion-label>Display language</ion-label>
+      <ion-select
+        slot="end"
+        interface="popover"
+        [value]="locale()"
+        (ionChange)="setLocale($event.detail.value)">
+        <ion-select-option value="eng">English</ion-select-option>
+        <ion-select-option value="fra">Français</ion-select-option>
+        <ion-select-option value="crj">East Cree (Southern)</ion-select-option>
+        <ion-select-option value="crl">East Cree (Northern)</ion-select-option>
+      </ion-select>
+    </ion-item>
+  </ion-list>
 
-  <app-explore-container name="Tab 3 page"></app-explore-container>
+  <ion-list inset="true">
+    <ion-list-header>
+      <ion-label>About</ion-label>
+    </ion-list-header>
+    <ion-item lines="none">
+      <ion-label class="ion-text-wrap">
+        <h3>Medical Glossary</h3>
+        <p>
+          Bilingual medical glossary for Aboriginal interpreters. Modernized
+          rewrite using Ionic, Angular and Capacitor.
+        </p>
+      </ion-label>
+    </ion-item>
+  </ion-list>
 </ion-content>
