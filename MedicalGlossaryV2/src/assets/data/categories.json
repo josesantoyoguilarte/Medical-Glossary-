@@ -1,0 +1,17 @@
+{
+	"Cancer":
+		{
+			"Breast":"1",
+			"Colorectal":"2",
+			"Lung":"3",
+			"Cervical":"4",
+			"Stomach":"5",
+			"Bladder":"6",
+			"Skin":"7",
+			"Liver":"8",
+			"Kidney":"9",
+			"Lymphoma":"10",
+			"Endometrial":"11",
+			"Prostate Cancer":"12"
+		}
+}
