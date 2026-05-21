@@ -1,2 +1,40 @@
 // For information on how to create your own theme, please refer to:
 // https://ionicframework.com/docs/theming/
+
+/*
+ * Brand palette inherited from the legacy Aboriginal Medical Glossary app
+ * (see MedicalGlossary/www/css/style.css):
+ *   - Header / tab bar background : #630000  (dark maroon)
+ *   - Syllabics + dividers        : #800000  (maroon)
+ * We map maroon to Ionic's `primary` color so toolbars, buttons, badges and
+ * the active tab indicator all match the original UI.
+ */
+
+:root {
+  --ion-color-primary:                #800000;
+  --ion-color-primary-rgb:            128, 0, 0;
+  --ion-color-primary-contrast:       #ffffff;
+  --ion-color-primary-contrast-rgb:   255, 255, 255;
+  --ion-color-primary-shade:          #630000;
+  --ion-color-primary-tint:           #8d1a1a;
+
+  /* Custom token used in components (Cree syllabics + region overlays). */
+  --app-brand-maroon: #800000;
+  --app-brand-maroon-dark: #630000;
+}
+
+/* In dark mode keep the brand identifiable but lighten the shade a touch. */
+.ion-palette-dark {
+  --ion-color-primary:                #a83232;
+  --ion-color-primary-rgb:            168, 50, 50;
+  --ion-color-primary-contrast:       #ffffff;
+  --ion-color-primary-contrast-rgb:   255, 255, 255;
+  --ion-color-primary-shade:          #800000;
+  --ion-color-primary-tint:           #b94f4f;
+}
+
+/* Cree syllabics callout — matches `span.syllabics` in the legacy stylesheet. */
+.syllabics {
+  color: var(--app-brand-maroon);
+  font-weight: 500;
+}

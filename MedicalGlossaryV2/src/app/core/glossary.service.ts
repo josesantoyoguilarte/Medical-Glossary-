@@ -148,6 +148,41 @@ export class GlossaryService {
     return `${this.base}/images/${filename}`;
   }
 
+  // ---- per-term pronunciation audio --------------------------------------
+
+  /**
+   * Single-word pronunciation clips live under `audio/crj/` and `audio/crl/`
+   * with the filename equal to the Cree term itself (e.g. `uskun.mp3`).
+   * `audio-manifest.json` lists what exists so we can render a play button
+   * only when there's actually a recording to play.
+   */
+  private readonly audioManifest$ = this.http
+    .get<{ crj?: string[]; crl?: string[] }>(`${this.base}/audio-manifest.json`)
+    .pipe(
+      map((m) => ({
+        crj: new Set(m.crj ?? []),
+        crl: new Set(m.crl ?? []),
+      })),
+      shareReplay({ bufferSize: 1, refCount: false }),
+    );
+
+  audioManifest(): Observable<{ crj: Set<string>; crl: Set<string> }> {
+    return this.audioManifest$;
+  }
+
+  /**
+   * URL of the pronunciation clip for `term` in the given Cree dialect, or
+   * `null` if no such recording is bundled. Synchronous wrapper around the
+   * cached manifest; callers should subscribe to `audioManifest()` once
+   * first (the Glossary tab does this on init).
+   */
+  termAudioUrl(term: string, locale: string, manifest: { crj: Set<string>; crl: Set<string> }): string | null {
+    if (locale !== 'crj' && locale !== 'crl') return null;
+    const key = term.trim();
+    if (!key || !manifest[locale].has(key)) return null;
+    return this.audioUrl(`${key}.mp3`, locale);
+  }
+
   /** Convenience: switch locale and return the matching terms stream. */
   setLocale(locale: Locale): Observable<TermSummary[]> {
     this.locale.set(locale);

@@ -1,5 +1,5 @@
 <ion-header [translucent]="true">
-  <ion-toolbar>
+  <ion-toolbar color="primary">
     <ion-title>Glossary</ion-title>
     <ion-buttons slot="end">
       <ion-button
@@ -72,9 +72,17 @@
                   <ion-badge color="medium">{{ tr.Language || tr.locale }}</ion-badge>
                   {{ tr.term }}
                 </h3>
-                <p *ngIf="tr.term_syllabics">{{ tr.term_syllabics }}</p>
+                <p *ngIf="tr.term_syllabics" class="syllabics">{{ tr.term_syllabics }}</p>
                 <p *ngIf="tr.definition" [innerHTML]="tr.definition"></p>
               </ion-label>
+              <ion-button
+                *ngIf="audioFor(tr.term, tr.locale) as audioUrl"
+                fill="clear"
+                slot="end"
+                (click)="playAudio(audioUrl)"
+                [attr.aria-label]="'Play pronunciation of ' + tr.term">
+                <ion-icon slot="icon-only" name="volume-medium-outline"></ion-icon>
+              </ion-button>
             </ion-item>
           </ng-container>
           <ng-template #loadingEntry>

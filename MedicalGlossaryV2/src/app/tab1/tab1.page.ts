@@ -14,6 +14,7 @@ import { UserDataService } from '../core/user-data.service';
 export class Tab1Page implements OnInit {
   private readonly glossary = inject(GlossaryService);
   private readonly userData = inject(UserDataService);
+  private currentAudio?: HTMLAudioElement;
 
   readonly query$ = new BehaviorSubject<string>('');
   readonly locale = this.glossary.locale;
@@ -23,10 +24,16 @@ export class Tab1Page implements OnInit {
   readonly entries = signal<Record<string, EntryDetail | undefined>>({});
   readonly favoritesOnly = signal(false);
 
+  private audioManifest: { crj: Set<string>; crl: Set<string> } = {
+    crj: new Set(),
+    crl: new Set(),
+  };
+
   results: TermSummary[] = [];
   loading = true;
 
   ngOnInit(): void {
+    this.glossary.audioManifest().subscribe((m) => (this.audioManifest = m));
     combineLatest([
       this.query$.pipe(debounceTime(150), distinctUntilChanged()),
     ])
@@ -81,6 +88,18 @@ export class Tab1Page implements OnInit {
       this.results = rows.slice(0, 200);
       this.expanded.set({});
     });
+  }
+
+  /** Build the audio URL if a recording exists for this Cree translation. */
+  audioFor(term: string | null | undefined, locale: string | undefined): string | null {
+    if (!term || !locale) return null;
+    return this.glossary.termAudioUrl(term, locale, this.audioManifest);
+  }
+
+  playAudio(url: string): void {
+    this.currentAudio?.pause();
+    this.currentAudio = new Audio(url);
+    this.currentAudio.play().catch(() => undefined);
   }
 
   trackByUuid = (_: number, t: TermSummary) => t.uuid;

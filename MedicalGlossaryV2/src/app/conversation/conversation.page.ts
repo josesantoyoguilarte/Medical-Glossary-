@@ -17,7 +17,7 @@ import { ConversationLine } from '../core/models/glossary.models';
   imports: [CommonModule, IonicModule],
   template: `
     <ion-header [translucent]="true">
-      <ion-toolbar>
+      <ion-toolbar color="primary">
         <ion-buttons slot="start">
           <ion-back-button defaultHref="/tabs/tab3"></ion-back-button>
         </ion-buttons>

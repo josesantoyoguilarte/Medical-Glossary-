@@ -22,8 +22,8 @@
   position: absolute;
   margin: 0;
   padding: 0;
-  background: rgba(56, 128, 255, 0.05);
-  border: 2px solid rgba(56, 128, 255, 0.45);
+  background: rgba(128, 0, 0, 0.08);
+  border: 2px solid rgba(128, 0, 0, 0.5);
   border-radius: 6px;
   cursor: pointer;
   transition: background-color 120ms ease, border-color 120ms ease;
@@ -34,13 +34,13 @@
 
   &:hover,
   &:focus-visible {
-    background: rgba(56, 128, 255, 0.18);
+    background: rgba(128, 0, 0, 0.2);
     border-color: var(--ion-color-primary);
     outline: none;
   }
 
   &:active {
-    background: rgba(56, 128, 255, 0.35);
+    background: rgba(128, 0, 0, 0.38);
   }
 }
 
