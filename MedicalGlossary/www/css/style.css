@@ -1,0 +1,34 @@
+/* Empty. Add your own CSS if you like */
+@font-face {
+ font-family: 'BJCree';
+ src: url('../font/bjcrusb.ttf') format('truetype'),
+      url('../font/bjcrus.ttf') format('truetype');
+}
+
+
+.title.title-center.header-item {
+	color:white;
+	background-image: url("/img/navbar@2x.png");
+	margin-right:0 0px;
+}
+.tab-item .icon{
+	background-image: url("/img/tabbar@2x.png");
+	color: White;
+}
+.tab-nav.tabs {
+	background-color: #630000;
+}
+.tab-title.ng-binding {
+	color: White;
+}
+span.syllabics.ng-binding{
+	color: #630000;
+	font-family: 'BJCree';
+}
+
+.item.item-divider.ng-binding {
+	color: White;
+	background-color: #800000;
+	
+}
+

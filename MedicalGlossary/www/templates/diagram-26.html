@@ -1,0 +1,62 @@
+<ion-view view-title="Diagrams">
+
+  <ion-content class="padding" >
+  
+	<audio id='player1'   >
+		<source type="audio/mpeg" src="data/audio/crl/uskun.mp3" >
+	</audio>
+	<audio id='player2'   >
+		<source type="audio/mpeg" src="data/audio/crl/wiisipui.mp3">
+	</audio>
+	<audio id='player3'   >
+		<source type="audio/mpeg" src="data/audio/crl/ukuhtishkwaayaapii.mp3" >
+	</audio>
+	<audio id='player4'   >
+		<source type="audio/mpeg" src="data/audio/crl/utichishiih.mp3">
+	</audio>
+	<audio id='player5'   >
+		<source type="audio/mpeg" src="data/audio/crl/utiyi.mp3" >
+	</audio>
+	<audio id='player6'   >
+		<source type="audio/mpeg" src="data/audio/crl/uchisch.mp3">
+	</audio>
+	<audio id='player7'   >
+		<source type="audio/mpeg" src="data/audio/crl/utichishiih.mp3">
+	</audio>
+	<audio id='player8'   >
+		<source type="audio/mpeg" src="data/audio/crl/uchisch.mp3">
+	</audio>
+	
+	
+    <img src="data/images/eng/26.png" class="img-map" style="width:100%; height:auto;" usemap="#26Map" />
+	<!-- <img src="data/images/eng/26.png" class="img-map" style="?*width:100%; height:auto;*/" usemap="#26Map" /> -->
+	
+	<map name="26Map">
+
+	<area shape="rect" coords="151,81,599,300" onclick="document.getElementById('player1').play()"   alt="liver" />
+	<area shape="rect" coords="73,320,521,500" onclick="document.getElementById('player2').play()"   alt="gallbladder"/> 
+	<area shape="rect" coords="51,520,385,843" onclick="document.getElementById('player7').play()"   alt="large intestine"/>
+	<area shape="rect" coords="52,900,395,1447" onclick="document.getElementById('player4').play()"   alt="small intestine"/>
+	
+	<area shape="rect" coords="800,95,1200,178" onclick="document.getElementById('player3').play()"   alt="esophagus"/>
+	<area shape="rect" coords="800,300,1200,450" onclick="document.getElementById('player8').play()"   alt="stomach"/>
+	<area shape="rect" coords="800,550,1206,700" onclick="document.getElementById('player5').play()"   alt="bile duct"/>
+	<area shape="rect" coords="800,750,1200,900" onclick="document.getElementById('player8').play()"   alt="rectum"/>
+	<area shape="rect" coords="800,950,1200,1200" onclick="document.getElementById('player6').play()"   alt="anus"/>
+	
+	
+	</map>
+		
+ 
+
+ 
+ <script type="text/javascript">
+ $("img['usemap']").rwdImageMaps();
+ $('area').on('click', function(){alert(this.alt);});
+ </script>
+ 
+ 
+ </ion-content>
+</ion-view>
+		
+

@@ -1,0 +1,56 @@
+<div  class="panel panel-default" style="margin-bottom: 0.1em; box-shadow: 1px 1px 3px #333;">
+    <div class="panel-body" style="padding: 0.3em 0.8em" >
+
+        <div ng-repeat="translation in term.TermTranslation">
+            <!-- with syllabics -->
+            <div ng-if="translation.term_syllabics">
+                <h4 style="margin-top:1em; color:#666; " >
+                    <span class="syllabics" style="color:#000; font-size:180%;">{{translation.term_syllabics}}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="syllabics badge pull-right" style="font-size: 80%;" ng-show="translation.locale || translation.Community">{{locales[translation.locale]}} {{translation.Community}}</span>
+                </h4>
+                
+                <p style="margin-left:1em; font-size:110%; color:#666;" class="translation" >
+                    <span class="data"    ng-bind-html="translation.term | html"></span>
+                    
+
+                </p>
+            </div>
+            <!-- without syllabics -->
+            <div ng-if="!translation.term_syllabics">
+                
+                <h4 style="margin-top:1em; color:#666; " class="translation ">
+                    <span class="data"   ng-bind-html="translation.term | html"></span>
+                    
+
+                    <span class="syllabics badge pull-right" style="font-size: 80%;" ng-show="translation.locale || translation.Community">{{locales[translation.locale]}} {{translation.Community}}</span>
+                </h4>
+
+            </div>
+            
+            <p style="padding: 0 2.5em; margin-bottom: 1em;">
+                <small style="font-size: 95%; color:#999; font-style: italic" class="translation" >
+                    <span class="syllabics">{{translation.definition_syllabics}}</span>
+
+                    <span class="data"  i  ng-bind-html="translation.definition | html"></span>
+                    
+
+                </small>
+            </p>
+           
+            <p style="padding: 0 2.5em; margin-bottom: 1em;"><small class="translation" style="font-size: 85%; color:#9c9;" >
+
+                <span class="data"    ng-bind-html="translation['public_note_en'] | html"></span>
+                    
+            </small></p>
+            <p style="text-align: right; font-size:65%; color:#ea9; border-bottom: 1px solid #eee; " ng-show="translation.source"> Source: {{translation.source}}</p>
+        </div>
+
+            <span ng-repeat="cat in term.details.Category" class="categories" id="category_{{cat.uuid}}_{{term.details.Term.uuid}}">
+                <button class="btn btn-info btn-xs"  style="margin-right: 0"   ng-click="browseBy('Category',cat.uuid)">{{cat.name}} <span ng-if="cat.locale"> ({{locales[cat.locale]}}) </span></button>
+                
+            </span>
+    </div>
+</div>
+
+
+|

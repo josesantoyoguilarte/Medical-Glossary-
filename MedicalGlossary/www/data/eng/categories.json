@@ -1,0 +1,476 @@
+{
+	"569579ca-5548-4b16-a576-28c8b6f72614" : {
+		"name" : "Medical",
+		"uuid" : "569579ca-5548-4b16-a576-28c8b6f72614",
+		"term_count" : "65",
+		"locale" : "eng"
+	},
+	"56957add-4048-46b1-b882-0f58b6f72614" : {
+		"name" : "General organs and systems",
+		"uuid" : "56957add-4048-46b1-b882-0f58b6f72614",
+		"term_count" : "40",
+		"locale" : "eng"
+	},
+	"56957b05-b358-4848-ba4d-0f58b6f72614" : {
+		"name" : "General cancer terms",
+		"uuid" : "56957b05-b358-4848-ba4d-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957b05-73b8-4063-b663-0f58b6f72614" : {
+		"name" : "Prevention (General cancer terms)",
+		"uuid" : "56957b05-73b8-4063-b663-0f58b6f72614",
+		"term_count" : "9",
+		"locale" : "eng"
+	},
+	"56957b0e-a7b4-45ec-b48c-0f58b6f72614" : {
+		"name" : "Early detection & screening (General cancer terms)",
+		"uuid" : "56957b0e-a7b4-45ec-b48c-0f58b6f72614",
+		"term_count" : "22",
+		"locale" : "eng"
+	},
+	"56957b24-f384-4913-87ee-0f58b6f72614" : {
+		"name" : "Symptoms (General cancer terms)",
+		"uuid" : "56957b24-f384-4913-87ee-0f58b6f72614",
+		"term_count" : "18",
+		"locale" : "eng"
+	},
+	"56957b36-7f50-4450-b7df-0f58b6f72614" : {
+		"name" : "Treatment (General cancer terms)",
+		"uuid" : "56957b36-7f50-4450-b7df-0f58b6f72614",
+		"term_count" : "48",
+		"locale" : "eng"
+	},
+	"56957b66-1888-428a-93ea-0f58b6f72614" : {
+		"name" : "Side effects (General cancer terms)",
+		"uuid" : "56957b66-1888-428a-93ea-0f58b6f72614",
+		"term_count" : "28",
+		"locale" : "eng"
+	},
+	"56957b82-d1b8-463b-ba00-0f58b6f72614" : {
+		"name" : "Breast cancer",
+		"uuid" : "56957b82-d1b8-463b-ba00-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957b82-91d8-42c4-ba7f-0f58b6f72614" : {
+		"name" : "Prevention (Breast cancer)",
+		"uuid" : "56957b82-91d8-42c4-ba7f-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957b85-20ac-4580-8708-0f58b6f72614" : {
+		"name" : "Early detection & screening (Breast cancer)",
+		"uuid" : "56957b85-20ac-4580-8708-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957b8a-2be8-4a6c-8cfb-0f58b6f72614" : {
+		"name" : "Symptoms (Breast cancer)",
+		"uuid" : "56957b8a-2be8-4a6c-8cfb-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957b8d-6750-44c7-aded-0f58b6f72614" : {
+		"name" : "Treatment (Breast cancer)",
+		"uuid" : "56957b8d-6750-44c7-aded-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957b92-78b4-4b0e-863d-0f58b6f72614" : {
+		"name" : "Side effects (Breast cancer)",
+		"uuid" : "56957b92-78b4-4b0e-863d-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957b96-3ac4-46f2-bfe0-0f58b6f72614" : {
+		"name" : "Colorectal cancer",
+		"uuid" : "56957b96-3ac4-46f2-bfe0-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957b96-7054-440b-84bf-0f58b6f72614" : {
+		"name" : "Prevention (Colorectal cancer)",
+		"uuid" : "56957b96-7054-440b-84bf-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957b9b-35c4-4e5c-8ad1-0f58b6f72614" : {
+		"name" : "Early detection & screening (Colorectal cancer)",
+		"uuid" : "56957b9b-35c4-4e5c-8ad1-0f58b6f72614",
+		"term_count" : "9",
+		"locale" : "eng"
+	},
+	"56957ba4-c0d8-4f56-99ac-0f58b6f72614" : {
+		"name" : "Symptoms (Colorectal cancer)",
+		"uuid" : "56957ba4-c0d8-4f56-99ac-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957ba7-b8e0-448c-9c06-0f58b6f72614" : {
+		"name" : "Treatment (Colorectal cancer)",
+		"uuid" : "56957ba7-b8e0-448c-9c06-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957ba9-3798-4bd7-b039-0f58b6f72614" : {
+		"name" : "Side effects (Colorectal cancer)",
+		"uuid" : "56957ba9-3798-4bd7-b039-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bab-168c-4851-bb6c-0f58b6f72614" : {
+		"name" : "Lung cancer",
+		"uuid" : "56957bab-168c-4851-bb6c-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957bab-efac-4b7e-b1e5-0f58b6f72614" : {
+		"name" : "Prevention (Lung cancer)",
+		"uuid" : "56957bab-efac-4b7e-b1e5-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957bb0-e5d0-4a13-8a68-0f58b6f72614" : {
+		"name" : "Early detection & screening (Lung cancer)",
+		"uuid" : "56957bb0-e5d0-4a13-8a68-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bb2-97ec-4ddb-babf-0f58b6f72614" : {
+		"name" : "Symptoms (Lung cancer)",
+		"uuid" : "56957bb2-97ec-4ddb-babf-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957bb6-a028-410b-90c4-0f58b6f72614" : {
+		"name" : "Treatment (Lung cancer)",
+		"uuid" : "56957bb6-a028-410b-90c4-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957bba-e8e8-44c7-818b-0f58b6f72614" : {
+		"name" : "Side effects (Lung cancer)",
+		"uuid" : "56957bba-e8e8-44c7-818b-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bbc-489c-4060-aa46-0f58b6f72614" : {
+		"name" : "Cervical cancer",
+		"uuid" : "56957bbc-489c-4060-aa46-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957bbc-dff8-485d-8c90-0f58b6f72614" : {
+		"name" : "Prevention (Cervical cancer)",
+		"uuid" : "56957bbc-dff8-485d-8c90-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957bc0-0fb4-42f4-b05d-0f58b6f72614" : {
+		"name" : "Early detection & screening (Cervical cancer)",
+		"uuid" : "56957bc0-0fb4-42f4-b05d-0f58b6f72614",
+		"term_count" : "7",
+		"locale" : "eng"
+	},
+	"56957bc7-71d8-42b4-9311-0f58b6f72614" : {
+		"name" : "Symptoms (Cervical cancer)",
+		"uuid" : "56957bc7-71d8-42b4-9311-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bc9-0bb4-41d1-9aa1-0f58b6f72614" : {
+		"name" : "Treatment (Cervical cancer)",
+		"uuid" : "56957bc9-0bb4-41d1-9aa1-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957bcc-c078-43ac-9e5f-0f58b6f72614" : {
+		"name" : "Side effects (Cervical cancer)",
+		"uuid" : "56957bcc-c078-43ac-9e5f-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957bcf-4c04-45ab-8a8d-0f58b6f72614" : {
+		"name" : "Stomach cancer",
+		"uuid" : "56957bcf-4c04-45ab-8a8d-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957bcf-b098-4eb2-a4c7-0f58b6f72614" : {
+		"name" : "Prevention (Stomach cancer)",
+		"uuid" : "56957bcf-b098-4eb2-a4c7-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957bd3-d4bc-409d-803b-0f58b6f72614" : {
+		"name" : "Early detection & screening (Stomach cancer)",
+		"uuid" : "56957bd3-d4bc-409d-803b-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957bd8-3f88-4d9d-a553-0f58b6f72614" : {
+		"name" : "Symptoms (Stomach cancer)",
+		"uuid" : "56957bd8-3f88-4d9d-a553-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957bdb-7b24-4a6b-8282-0f58b6f72614" : {
+		"name" : "Treatment (Stomach cancer)",
+		"uuid" : "56957bdb-7b24-4a6b-8282-0f58b6f72614",
+		"term_count" : "1",
+		"locale" : "eng"
+	},
+	"56957bdc-0a94-4168-99d4-0f58b6f72614" : {
+		"name" : "Bladder cancer",
+		"uuid" : "56957bdc-0a94-4168-99d4-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957bdc-0f10-4120-a5ee-0f58b6f72614" : {
+		"name" : "Prevention (Bladder cancer)",
+		"uuid" : "56957bdc-0f10-4120-a5ee-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bde-5088-4258-8644-0f58b6f72614" : {
+		"name" : "Early detection & screening (Bladder cancer)",
+		"uuid" : "56957bde-5088-4258-8644-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957be2-ee90-4c20-b02e-0f58b6f72614" : {
+		"name" : "Symptoms (Bladder cancer)",
+		"uuid" : "56957be2-ee90-4c20-b02e-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957be5-9f7c-4afe-85f3-0f58b6f72614" : {
+		"name" : "Treatment (Bladder cancer)",
+		"uuid" : "56957be5-9f7c-4afe-85f3-0f58b6f72614",
+		"term_count" : "1",
+		"locale" : "eng"
+	},
+	"56957be6-7728-46c4-811d-0f58b6f72614" : {
+		"name" : "Side effects (Bladder cancer)",
+		"uuid" : "56957be6-7728-46c4-811d-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957be9-0168-489c-9508-0f58b6f72614" : {
+		"name" : "Skin cancer",
+		"uuid" : "56957be9-0168-489c-9508-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957be9-eeb4-41ba-9fba-0f58b6f72614" : {
+		"name" : "Prevention (Skin cancer)",
+		"uuid" : "56957be9-eeb4-41ba-9fba-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957bed-2d74-4523-ac40-0f58b6f72614" : {
+		"name" : "Early detection & screening (Skin cancer)",
+		"uuid" : "56957bed-2d74-4523-ac40-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957bf2-326c-40f5-a7f1-0f58b6f72614" : {
+		"name" : "Symptoms (Skin cancer)",
+		"uuid" : "56957bf2-326c-40f5-a7f1-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bf4-41cc-4daf-a0cb-0f58b6f72614" : {
+		"name" : "Treatment (Skin cancer)",
+		"uuid" : "56957bf4-41cc-4daf-a0cb-0f58b6f72614",
+		"term_count" : "1",
+		"locale" : "eng"
+	},
+	"56957bf5-a8ac-46ba-975c-0f58b6f72614" : {
+		"name" : "Side effects (Skin cancer)",
+		"uuid" : "56957bf5-a8ac-46ba-975c-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957bf7-4200-4faf-b99b-0f58b6f72614" : {
+		"name" : "Liver cancer",
+		"uuid" : "56957bf7-4200-4faf-b99b-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957bf7-6b58-4615-a9ec-0f58b6f72614" : {
+		"name" : "Prevention (Liver cancer)",
+		"uuid" : "56957bf7-6b58-4615-a9ec-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957bfc-2e94-47a7-99d7-0f58b6f72614" : {
+		"name" : "Early detection & screening (Liver cancer)",
+		"uuid" : "56957bfc-2e94-47a7-99d7-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c00-4b60-4d05-8dc3-0f58b6f72614" : {
+		"name" : "Symptoms (Liver cancer)",
+		"uuid" : "56957c00-4b60-4d05-8dc3-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957c02-a5b4-4724-b8ee-0f58b6f72614" : {
+		"name" : "Treatment (Liver cancer)",
+		"uuid" : "56957c02-a5b4-4724-b8ee-0f58b6f72614",
+		"term_count" : "2",
+		"locale" : "eng"
+	},
+	"56957c04-e16c-41f5-af9d-0f58b6f72614" : {
+		"name" : "Side effects (Liver cancer)",
+		"uuid" : "56957c04-e16c-41f5-af9d-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957c07-0964-4944-bc58-0f58b6f72614" : {
+		"name" : "Kidney cancer",
+		"uuid" : "56957c07-0964-4944-bc58-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957c07-ad9c-4ff5-867b-0f58b6f72614" : {
+		"name" : "Prevention (Kidney cancer)",
+		"uuid" : "56957c07-ad9c-4ff5-867b-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c0b-04f8-47a1-ad6b-0f58b6f72614" : {
+		"name" : "Symptoms (Kidney cancer)",
+		"uuid" : "56957c0b-04f8-47a1-ad6b-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	},
+	"56957c11-4794-4bfb-9528-0f58b6f72614" : {
+		"name" : "Investigation (Kidney cancer)",
+		"uuid" : "56957c11-4794-4bfb-9528-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957c16-9294-4b23-bf68-0f58b6f72614" : {
+		"name" : "Treatment (Kidney cancer)",
+		"uuid" : "56957c16-9294-4b23-bf68-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c1b-a0a0-4b70-bd84-0f58b6f72614" : {
+		"name" : "Side effects (Kidney cancer)",
+		"uuid" : "56957c1b-a0a0-4b70-bd84-0f58b6f72614",
+		"term_count" : "5",
+		"locale" : "eng"
+	},
+	"56957c20-0b58-479d-aa53-0f58b6f72614" : {
+		"name" : "Lymphoma cancer",
+		"uuid" : "56957c20-0b58-479d-aa53-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957c20-b8b8-4282-82be-0f58b6f72614" : {
+		"name" : "Prevention (Lymphoma cancer)",
+		"uuid" : "56957c20-b8b8-4282-82be-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	},
+	"56957c26-5e8c-4a7b-b666-0f58b6f72614" : {
+		"name" : "symptoms (Lymphoma cancer)",
+		"uuid" : "56957c26-5e8c-4a7b-b666-0f58b6f72614",
+		"term_count" : "22",
+		"locale" : "eng"
+	},
+	"56957c3c-59cc-408a-b848-0f58b6f72614" : {
+		"name" : "Investigation (Lymphoma cancer)",
+		"uuid" : "56957c3c-59cc-408a-b848-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	},
+	"56957c42-2074-4275-b8be-0f58b6f72614" : {
+		"name" : "Treatment (Lymphoma cancer)",
+		"uuid" : "56957c42-2074-4275-b8be-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c48-af7c-4f17-8a2b-0f58b6f72614" : {
+		"name" : "Side effects (Lymphoma cancer)",
+		"uuid" : "56957c48-af7c-4f17-8a2b-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	},
+	"56957c4e-bc8c-4959-ae26-0f58b6f72614" : {
+		"name" : "Endometrial cancer",
+		"uuid" : "56957c4e-bc8c-4959-ae26-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957c4e-6154-4b97-8854-0f58b6f72614" : {
+		"name" : "Prevention (Endometrial cancer)",
+		"uuid" : "56957c4e-6154-4b97-8854-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c52-306c-45ba-9286-0f58b6f72614" : {
+		"name" : "Symptoms (Endometrial cancer)",
+		"uuid" : "56957c52-306c-45ba-9286-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957c55-8000-4080-83ef-0f58b6f72614" : {
+		"name" : "Investigation (Endometrial cancer)",
+		"uuid" : "56957c55-8000-4080-83ef-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	},
+	"56957c5c-f2fc-48e8-894e-0f58b6f72614" : {
+		"name" : "Treatment (Endometrial cancer)",
+		"uuid" : "56957c5c-f2fc-48e8-894e-0f58b6f72614",
+		"term_count" : "3",
+		"locale" : "eng"
+	},
+	"56957c5f-9c94-4796-87b9-0f58b6f72614" : {
+		"name" : "Side effects (Endometrial cancer)",
+		"uuid" : "56957c5f-9c94-4796-87b9-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c63-0e64-41dd-bb84-0f58b6f72614" : {
+		"name" : "Prostate cancer",
+		"uuid" : "56957c63-0e64-41dd-bb84-0f58b6f72614",
+		"term_count" : "0",
+		"locale" : "eng"
+	},
+	"56957c63-6bb0-443c-b527-0f58b6f72614" : {
+		"name" : "Prevention (Prostate cancer)",
+		"uuid" : "56957c63-6bb0-443c-b527-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c67-9c64-4a98-908f-0f58b6f72614" : {
+		"name" : "symptoms (Prostate cancer)",
+		"uuid" : "56957c67-9c64-4a98-908f-0f58b6f72614",
+		"term_count" : "10",
+		"locale" : "eng"
+	},
+	"56957c71-5abc-41e1-aac3-0f58b6f72614" : {
+		"name" : "Investigation (Prostate cancer)",
+		"uuid" : "56957c71-5abc-41e1-aac3-0f58b6f72614",
+		"term_count" : "7",
+		"locale" : "eng"
+	},
+	"56957c78-138c-43c2-9700-0f58b6f72614" : {
+		"name" : "Treatment (Prostate cancer)",
+		"uuid" : "56957c78-138c-43c2-9700-0f58b6f72614",
+		"term_count" : "4",
+		"locale" : "eng"
+	},
+	"56957c7e-ce10-4e27-9d8a-0f58b6f72614" : {
+		"name" : "Side effects (Prostate cancer)",
+		"uuid" : "56957c7e-ce10-4e27-9d8a-0f58b6f72614",
+		"term_count" : "6",
+		"locale" : "eng"
+	}
+}

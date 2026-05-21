@@ -1,0 +1,4349 @@
+[{
+		"Term" : {
+			"uuid" : "569579cb-080c-4eca-9bd5-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "aids",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-4e9c-48ee-a476-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "asthma",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-db7c-429d-abdc-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "calcium",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-a024-40f0-a99f-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "calorie",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-c1b4-41e7-bd33-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "calories",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E) the amount of energy it gives",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-5904-4273-8cf6-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "cancer",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-0fd4-47e9-9e07-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "carbohydrates",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-6ae0-4530-b3f9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "cell",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E and \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-de80-4ca7-98c9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "chicken pox",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-7394-44ef-86ac-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "diabetes",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-35b0-41dd-a1e9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "diagnosis",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-b5e0-407d-87ab-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "diphteria",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E) the larynx swells",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-f5a8-4a95-9668-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "energy",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-b8c0-4e2c-a6e3-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "epidemic",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-2a64-40a7-a825-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fat",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-9378-4541-b3ac-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fats (cholesterol)",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-4490-48c7-96b7-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fats (saturated)",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-794c-4c5a-8d64-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fats (triglycerides)",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-5f20-4021-8aae-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fats (unsaturated)",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-eea8-4ddd-b3cf-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "flu",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-c7d0-46ba-b818-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "food groups",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-fbc4-4187-8e25-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fruits and vegetables",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-24a4-45f6-a1bd-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "gangrene",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E) use with body part",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-83e0-487e-9cd9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "gene",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E and \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-002c-468e-a3bf-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "goiter",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-e198-45fe-9582-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "grain products",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-6c44-4999-ae37-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "haemoglobin",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E) A1c",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-51b4-469d-933b-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "health promotion",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-4448-4c52-aa91-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "health status",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-5ed8-4f27-8b2d-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "holistic",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-ba64-4fb3-adcd-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "hormone",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-3944-40b8-a42c-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "immune system",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-3bb8-4f39-a838-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "influenza",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-eea8-4ddd-b3cf-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "influenza",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-7904-482c-9685-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "insomnia",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-8dc0-4617-97be-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "insulin",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-9330-485f-b276-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "intervention",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-860c-4f1c-9f28-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "ketones and ketoacidosis",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-ad5c-4221-9327-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "lactose intolerance",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-fd5c-41d4-9842-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "measles",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-35f8-49c2-b423-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "meat and substitutes",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-20c4-4338-baf9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "meningitis",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-a038-412d-b095-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "metabolism",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-19d8-4655-8ca6-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "milk products",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-692c-4434-bc86-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "mumps",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-8724-489a-aba1-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "pancreas",
+			"definition" : "pancreas, sponge-like organ near the stomach (of  human, caribou, moose and bear)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-d1c0-45d0-85d9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "pandemic",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-08e8-47e5-94d9-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "percentage",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-9d44-46fc-ad59-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "polio",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E) the deforming disease",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-1a58-4cbf-bd71-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "potassium",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-33a8-4095-86a7-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "regular cough",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-eebc-4699-b7a7-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "retinopathy",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-ec6c-4e73-81c8-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "rubella",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E) almost like chicken pox",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-20a8-4ce8-a50c-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "sexually transmitted diseases",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-0698-4c2c-89a1-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "smallpox",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E) small blisters on body",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-ada4-464b-bf02-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "soluble fibre",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E) to help with regular bowel movements",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-a724-4c00-8a65-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "spleen",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-d490-484a-b41d-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "supplements",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E) vitamins, minerals, folic acid, iron",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-d240-471c-8b55-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "terminal disease",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-9d84-413c-a9ed-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "tetanus",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-b814-4e9c-aafd-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "tetanus-muscles tighten up",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E) stiffen up",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-e600-43c2-bdb4-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "thyroid gland",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-cbd4-42c2-b15b-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "trauma shock",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-8358-4909-af40-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "tuberculosis",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-5244-4b60-a233-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "weak immune system",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-1918-472a-ba82-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "whooping cough",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aeb-7df8-4282-a88f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anus",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae5-7360-4dce-b807-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Appendix",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af1-1680-43cc-ae61-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Artery",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957add-d568-4fd0-8948-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bladder",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957afe-9e0c-46ab-b237-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Blood",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af0-991c-40ad-b8a9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bloodstream",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aeb-33e8-468c-a12b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bone",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957adc-3c5c-414e-ad63-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Brain",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aee-d22c-4a74-a565-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Breast",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957afd-5284-4959-9048-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cervix",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae1-609c-4e4f-b6cf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colon\/Large intestine",
+			"definition" : "The longest part of the large intestine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af3-2d04-4858-9a27-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Diaphragm",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957afb-eac0-4547-baf5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Epididymis",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-2a64-40a7-a825-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "fat",
+			"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae6-f318-4477-9979-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gallbladder",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "569579cb-3944-40b8-a42c-28c8b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "immune system",
+			"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af7-28dc-43dc-ae6a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Kidney",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aeb-68c0-416e-8438-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Liver",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aed-2bbc-4348-8f16-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lung",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b02-354c-4c50-b18b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lymph",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af4-4730-4ba0-8a6c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lymph nodes",
+			"definition" : "*contains mostly white blood cells {part of the immune system)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957afc-1250-48a4-9b85-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Marrow",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aec-e378-454b-9a05-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Muscle",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aef-8234-4596-a1b0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nipple",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae3-1f84-4cd2-b277-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Organs in the abdominal cavity\/Viscera, including intestines, liver, kidneys, etc.",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957afa-1188-40de-b7b7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ovaries",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ade-b8a4-4aaa-93fc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pancreas",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af9-83bc-42cd-99f1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Placenta",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b01-d89c-4ae5-9c77-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Platelets",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957adf-b498-4599-9581-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Prostate",
+			"definition" : "The prostate releases a type of fluid for the sperm to swim (semen). This is only found in men and as men get older, the prostate gets larger.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aeb-a174-494c-b2a3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Rectum",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b00-664c-415b-87c3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Red Blood Cell",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae2-49b4-43f9-89ba-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Small Intestine",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af5-96a0-4730-bd81-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Spleen",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae5-0618-42a8-a572-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Stomach",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ae0-cac0-4401-a585-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Testicles",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af2-2bbc-4607-85a7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Tonsils",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af8-5ff0-4392-b2b0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urethra",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957af6-a990-4baa-acaf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Uterus",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aff-12f4-4fe1-81b6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "White Blood Cell",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b04-0a78-4f46-aee3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Blood pressure",
+			"definition" : "The force of blood pushing on the walls of blood vessels.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b05-4b34-4dbf-a69f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Body mass index (BMI)",
+			"definition" : "A measurement used to tell if people are underweight, overweight, obese or in the normal weight range for their height.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b06-a874-460d-8058-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Carcinogen",
+			"definition" : "Anything that causes cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b07-7a14-4d7c-89a4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dietitian\/Nutritionist",
+			"definition" : "A healthcare professional that focuses on food and nutrition.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b08-b894-43dd-88ba-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Medical history",
+			"definition" : "A record of someone\u2019s risk factors, symptoms and past medical events and problems.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b09-f310-4323-84fa-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nutrition",
+			"definition" : "Eating foods that are good for the body so it can work normally.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0a-c898-494c-a243-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Physical activity",
+			"definition" : "Any type of movement or exercise that makes your heart beat faster and makes you breathe harder than when you\u2019re resting.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0b-6350-4a54-a7fa-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Teratogen",
+			"definition" : "Anything that can harm a baby before it is born.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0c-b35c-476d-b9fd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Toxin {poison)",
+			"definition" : "A poison made by something living, such as a plant, animal, fungus, bacteria, virus or other micro-organism.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0d-ee60-4508-8cd9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bacteria",
+			"definition" : "Tiny, one-celled living things that can cause infection or disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0e-1ba0-4d89-b82b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Biopsy",
+			"definition" : "Taking cells or tissues from the body to look at them under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0f-c920-418c-b730-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cell",
+			"definition" : "The most basic, smallest unit of all living things.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b10-267c-4c15-a175-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Computed tomography {CT) scan",
+			"definition" : "A test that uses a computer to put many x-rays together to create a 3-D picture of organs, tissues, bones and blood vessels in the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b11-4814-4b13-99b1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Congenital",
+			"definition" : "Present at birth.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b14-e538-4c8f-a278-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Diagnosis",
+			"definition" : "The process of finding out the cause of a person\u2019s health problem.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b15-0a9c-4c04-b506-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "False-negative",
+			"definition" : "A test result that says a person does not have a certain disease when the person does have the disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b16-9f70-48f4-bb53-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "False-positive",
+			"definition" : "A test result that says a person has a certain disease when the person actually does not have the disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b17-19fc-496d-b319-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Familial",
+			"definition" : "Happening in or affecting more members of a family than would be expected by chance.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b18-a11c-448a-86e1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Family history",
+			"definition" : "The medical history of a person\u2019s family, including mother, father, brothers and sisters, and grandparents.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b19-358c-4cd2-ae00-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gene",
+			"definition" : "The basic unit of heredity that passes a trait from parents to a child.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1a-5d1c-46dd-8c57-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gene mutation",
+			"definition" : "A permanent change in a gene.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1b-0d10-49ed-b5bc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Genetic testing",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1c-917c-4100-83be-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hereditary",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b13-9b6c-41f5-9b90-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hormonal therapy",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b12-d644-4fe3-b560-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hormones",
+			"definition" : "Is a type of molecule produced by glands in the body to send messages to distant organs. Basically messenger molecules. Organs will change their behaviour once they do receive these molecular messages.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1d-a0dc-482c-a909-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Magnetic resonance imaging (MRI) scan",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1e-ff24-4616-92f4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Precancerous",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b1f-fec0-4024-923b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ultrasound",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b20-76ec-42d0-974f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Virus",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b21-2870-42f8-a4a2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "X-ray",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b22-c4cc-4c11-bfcf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "X-ray (machine)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b23-e51c-4e55-ad8e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anemia",
+			"definition" : "Not enough healthy red blood cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b24-a5f0-4df0-b726-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Asymptomatic",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b25-aeec-4f65-bb5f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Benign",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b26-f488-43df-84b7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fatigue",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b27-2674-4452-aeb6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fever",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b28-cf98-4761-bda2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Grade",
+			"definition" : "Describing a tumour based on how different the cancer cells look from normal cells, how quickly the cancer cells are growing and dividing, and how likely they are to spread.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2a-3998-4b90-9bbc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infection",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b29-e858-4e9e-a00d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Inflammation",
+			"definition" : "The body\u2019s way of protecting itself from injury or infection.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2b-1224-45e7-9e26-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lump",
+			"definition" : "An abnormal mass.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2c-8fec-4f61-851d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lymphedema",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2d-6f9c-41aa-b9a2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Malignant",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2e-6660-45d6-9bec-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Metastasis",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2f-acd4-41a3-8507-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nausea",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b30-b13c-48ff-be5c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Platelets",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b31-8a74-4249-914a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Shortness of breath",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b32-aa6c-4cea-b513-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Stage",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b33-a7c0-41a1-8dcb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Swollen lymph nodes",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b34-0bc0-4443-aa56-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Tumour",
+			"definition" : "An abnormal mass of tissue formed when cells grow and divide more than they should.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b35-2a9c-47f1-ae20-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ablation",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b36-41f0-43da-9e0b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Active surveillance",
+			"definition" : "Using tests and exams on a regular basis to watch for changes in a person\u2019s health.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b37-9220-4c4e-8c51-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Adjuvant therapy",
+			"definition" : "A treatment used after the standard treatment to reduce the risk of cancer coming back.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b38-c3fc-4420-97e1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Alternative therapy",
+			"definition" : "A treatment used instead of the currently accepted and widely used treatment.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b39-7790-462c-a31f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Amputation",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3a-07d0-4a47-bf4c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Analgesic",
+			"definition" : "A drug that makes pain go away.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3b-1f2c-40e1-9937-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anesthesia",
+			"definition" : "The loss of feeling or numbing of pain in some or all of the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3e-b494-47b1-8166-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anti-emetic",
+			"definition" : "A drug that prevents or stops vomiting.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b40-a824-433d-9fea-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anti-inflammatory",
+			"definition" : "Something, such as a drug, that prevents or stops inflammation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3c-c188-4cc0-ae7e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Antibiotic",
+			"definition" : "A drug that fights infection.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3d-9734-45e1-89b9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Antibody",
+			"definition" : "Something made by the immune system to fight disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b3f-c998-4e4b-b912-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Antigen",
+			"definition" : "Anything, such as bacteria or a virus, that triggers the body\u2019s immune response.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b41-7ebc-4710-9878-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Biological therapy",
+			"definition" : "A treatment that uses natural or artificial materials to kill, control or change the way cells behave.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b42-8754-46ed-91c4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemoradiation therapy",
+			"definition" : "A treatment that gives chemotherapy during the same time period as radiation therapy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b43-396c-44ed-8043-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemotherapy",
+			"definition" : "A treatment that uses drugs to kill or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b44-c334-425b-88af-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Clinical trial",
+			"definition" : "A research study that tests new ways to prevent, detect, treat or manage a disease on people.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b45-f684-4c08-81f7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Combination therapy",
+			"definition" : "A treatment that uses more than one type of treatment at the same time.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b46-8e5c-41b2-8b3b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Conventional therapy",
+			"definition" : "The currently accepted and widely used treatment for a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b47-f8c0-4c85-86c1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Donor",
+			"definition" : "Someone who gives blood, cells, tissues or an organ to be used in another person.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b48-3878-4d62-8f94-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dose",
+			"definition" : "The amount of a drug or radiation given at one time.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b49-b674-4a79-9357-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Drug therapy",
+			"definition" : "A treatment that uses medical drugs to treat a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4a-103c-4b8d-b682-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Experimental drug",
+			"definition" : "A drug that is being tested to find out if it works and is safe, but that is not yet approved for use.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4b-062c-4d8e-bfa4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Follow-up",
+			"definition" : "Keeping track of a person\u2019s health for a period of time after treatment to watch for problems or for signs that the disease has come back.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4c-6760-49c5-9b8b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "In situ",
+			"definition" : "In the original site or place.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4d-81b8-437f-b21f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Informed consent",
+			"definition" : "When a person learns the potential risks, benefits and limits of a procedure, treatment, clinical trial or test before deciding to participate.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4e-27fc-45cd-96ae-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Injection",
+			"definition" : "Using a needle and syringe to push fluids or drugs into the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b50-eda4-4692-a5a5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Inoperable",
+			"definition" : "A disease or tumour that cannot be treated with an operation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b51-7f18-4c98-b479-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Intravenous (IV)",
+			"definition" : "Within or into a vein.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b54-e358-4389-ab10-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Invasive (disease)",
+			"definition" : "A disease that grows into surrounding tissue.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b52-4930-408d-80cf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Invasive (test or procedure)",
+			"definition" : "A test or tool that breaks the skin or enters a body cavity.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b56-2ac4-45ba-9e43-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Loss of appetite",
+			"definition" : "Losing interest in food and not eating.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b57-5bb0-4d81-93b6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Narcotic",
+			"definition" : "A drug that makes very bad pain go away.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b55-3c04-44d1-acf4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Non-invasive (disease)",
+			"definition" : "A disease that is only in one place.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b53-db00-40f1-86fd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Non-invasive (test or procedure)",
+			"definition" : "A test or tool that does not break the skin or enter a body cavity.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b58-62f0-4d90-96ed-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Oncology",
+			"definition" : "The study of cancers, including development, diagnosis, treatment and prevention.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b4f-e9bc-4d6a-9dfc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Operable",
+			"definition" : "A disease or tumour that can be treated with an operation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b59-711c-4cee-a2e6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pathology",
+			"definition" : "The study of disease, including causes, development and effects on the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5a-c670-4ca9-a539-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Physiotherapy",
+			"definition" : "A treatment that use special exercises, activities and massage to treat pain, disease or injury.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5b-2984-42b9-9787-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Prognosis",
+			"definition" : "The chance of recovery or of a disease coming back.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5c-f830-4d77-9359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation therapy",
+			"definition" : "A treatment that uses high-energy rays or particles, such as x-rays, to damage or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5d-6c34-4553-95ed-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Recurrence",
+			"definition" : "A disease that has come back after a period of time when there were no signs or symptoms of disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5e-f660-432c-9729-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Remission",
+			"definition" : "A period of time when the signs and symptoms of a disease get better or go away.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5f-7fbc-4e75-b939-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Risks",
+			"definition" : "The chance of getting a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b60-0984-47cd-9644-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Steroids",
+			"definition" : "A drug or a substance made by the body, such as a hormone, that affects how the body works.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b61-aec0-4de5-8821-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Surgery",
+			"definition" : "An operation to look for disease or to remove or repair tissue, an organ or a part of the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b62-412c-47b0-8d14-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Targeted therapy",
+			"definition" : "Any treatment that mainly kills cancer cells with little or no effect on normal cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b63-560c-45ee-8845-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Transfusion",
+			"definition" : "Putting blood or blood products into the body through a vein.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b64-63dc-48bb-89a0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Vaccine therapy *",
+			"definition" : "A treatment that uses an antigen to trigger the immune system to make antibodies that fight a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b65-1ec0-4223-9e3d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Acute pain",
+			"definition" : "Very bad pain that happens suddenly or gets worse quickly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b66-a908-4e68-8246-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Adverse reaction",
+			"definition" : "An unwanted, bad or harmful response to a drug or other therapy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b67-d394-4bd8-bd94-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Allergic reaction",
+			"definition" : "The body's immune response to something that enters the body, such as pollen, dust or certain drugs.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b68-10a8-493b-b6b9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anaphylaxis",
+			"definition" : "A very bad, possibly deadly, allergic reaction.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b69-9ad4-4fe6-8dc4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cancer survivor",
+			"definition" : "A person who is still living after being diagnosed with cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6a-748c-41b8-8176-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chronic pain",
+			"definition" : "Pain that happens slowly, lasts a long time or gets worse over time.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6b-097c-4611-9d37-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dehydration",
+			"definition" : "Losing too much water from the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6c-be3c-4802-b02e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Diuretic",
+			"definition" : "Any drug or substance that causes the body to make more urine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6d-3838-4de8-a898-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fatigue",
+			"definition" : "Feeling very tired or not having enough energy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6e-3a1c-4692-8042-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fluid retention",
+			"definition" : "A build-up of fluid in the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6f-3ad0-4823-9571-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hair loss",
+			"definition" : "Balding or loss of hair from the scalp or body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7d-2bc0-413c-b260-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hysterectomy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b70-aaac-4669-89fd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Immune system",
+			"definition" : "The cells and organs that defend the body against infection, disease and other materials that enter the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b71-cf48-43ce-a5d1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infertility",
+			"definition" : "Not being able to have children.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b72-a21c-432d-a9ad-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Insomnia",
+			"definition" : "Difficulty falling or staying asleep or not getting enough good sleep.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b73-579c-48a3-ad0c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nausea",
+			"definition" : "Feeling sick to the stomach or the need to vomit.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b74-da94-4323-98af-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Neuropathic pain",
+			"definition" : "Pain from an injury to or problem with nerves, the spinal cord or the brain.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b75-5f08-4485-908c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pain diary",
+			"definition" : "A record that people with chronic pain keep to track when pain is greatest during the day and the amount of medicine or other treatments that make the pain go away.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b76-58a4-4a57-9cc8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Palliative care",
+			"definition" : "Treatment and support to relieve symptoms and improve quality of life for people with a serious illness that cannot be cured.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b77-e5d4-44ee-bc4f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Phantom limb pain",
+			"definition" : "Pain, numbness, tingling or itching that someone feels where a removed limb used to be.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b78-8a88-444f-9222-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Phlebitis",
+			"definition" : "Inflammation of a vein causing redness, swelling and pain.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b79-8728-4c35-9fc2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pneumonia",
+			"definition" : "Infection of one or both lungs caused by bacteria, viruses or fungi.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7a-a5ac-4594-95a4-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation sickness",
+			"definition" : "Symptoms caused by large doses of radiation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7b-00e4-4e2e-892d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Rating pain",
+			"definition" : "Describing the strength of pain based on a scale. For example, 1 to 10 where 1 means no pain or very little pain and 10 is the worst pain.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7c-0a20-47e8-9f83-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Side effect",
+			"definition" : "An unwanted, bad or harmful symptom or effect caused by a medical treatment or procedure.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7e-4b1c-4a42-9826-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Somatic pain",
+			"definition" : "Pain from an injury to or problem with the skin and deep tissues.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b7f-684c-4969-ad82-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Visceral pain",
+			"definition" : "Pain in any organ in the chest or belly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b80-84ac-437b-aedc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Vomit",
+			"definition" : "Throwing up the contents of the stomach through the mouth.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b81-6650-46ba-afb8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Birth control pill *",
+			"definition" : "A drug that women take by mouth to prevent pregnancy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b05-4b34-4dbf-a69f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Body mass index (BMI)",
+			"definition" : "A measurement used to tell if people are underweight, overweight, obese or in the normal weight range for their height.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b83-a5fc-4ae4-8f18-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hormonal therapy",
+			"definition" : "A treatment that adds, blocks or removes hormones in the body to treat a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b84-28b4-47b6-9cfa-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "BRCA gene mutation",
+			"definition" : "One of 2 genes that normally help stop cell growth. If they are abnormal they increase the risk of getting breast cancer or other cancers",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b85-4d6c-45a9-a226-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Clinical breast exam (CBE)",
+			"definition" : "A physical exam of the breasts and nearby lymph nodes",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b86-7fa4-4170-9d2d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dense breast tissue",
+			"definition" : "Tissue in the breast that has more connective tissues, glands and milk ducts than fatty tissue.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b87-b898-48a8-9464-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Genetic testing",
+			"definition" : "Looking at someone\u2019s DNA to see if there is a permanent change in a gene that may mean the person has a higher risk for getting a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b88-2e10-4408-95ff-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Mammogram",
+			"definition" : "An x-ray picture of the soft tissue of the breast.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b89-1784-467b-b1a1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lump",
+			"definition" : "An abnormal mass. (That is felt when touched)",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b8a-a104-4460-868a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lump (that is seen by naked eye)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b8b-bd24-43e3-8b24-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin change",
+			"definition" : "An abnormal change in the skin that may be the sign of a disease such as cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b8c-c130-4b59-89c8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Breast-conserving surgery (BCS)",
+			"definition" : "An operation to remove a tumor and some healthy tissue around it so that most of the breast remains.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b83-a5fc-4ae4-8f18-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hormonal therapy",
+			"definition" : "A treatment that adds, blocks or removes hormones in the body to treat a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b8f-f524-4013-933d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lumpectomy",
+			"definition" : "An operation to remove a breast lump or tumour along with a very small amount of healthy tissue around it.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b90-0754-4a8e-b743-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Mastectomy",
+			"definition" : "An operation to remove a breast.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b8d-e094-4fed-a5cd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Reconstructive surgery",
+			"definition" : "An operation to a part of the body to help it work better, look better or to help heal a wound.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b94-d1f4-47d8-939b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Menopause",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b91-87e0-448a-8810-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Osteoporosis",
+			"definition" : "When bones become weak and easy to break.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b92-b32c-478b-bbb1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Rehabilitation",
+			"definition" : "Helping a person get better through physical therapy, massage and exercise.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b93-9a3c-4cb5-97ab-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Treatment-induced menopause",
+			"definition" : "The permanent end of menstruation that happens when the ovaries are removed or they are damaged by chemotherapy or radiation therapy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b95-6944-47dd-a20f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Aspirin",
+			"definition" : "A drug that stops pain, fever and inflammation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b05-4b34-4dbf-a69f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Body mass index (BMI)",
+			"definition" : "A measurement used to tell if people are underweight, overweight, obese or in the normal weight range for their height.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b97-f2c4-4a2f-b338-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colon",
+			"definition" : "The longest part of the large intestine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b98-0224-4fe4-a8f7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dietary fibre",
+			"definition" : "The part of fruit, vegetables, beans and grains that the body cannot break down but that helps the body move and digest food.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b99-52a4-4819-8b9d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Inflammatory bowel disease",
+			"definition" : "When the lining of the intestines becomes inflamed, the intestinal walls become swollen and ulcers develop.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9a-d87c-4f61-987f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colonoscopy",
+			"definition" : "A test that uses a hollow tube with a light and camera to look at or treat the colon.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9b-d7b4-40e2-9c15-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Digital rectal exam (DRE) *",
+			"definition" : "A physical exam that checks for problems in the rectum or prostate.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9c-fcd0-44b7-be10-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Enema *",
+			"definition" : "Putting a liquid into the colon and rectum through the anus.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9d-17c4-430d-b071-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fecal immunochemical test (FIT)",
+			"definition" : "A test that finds traces of blood in the stool.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9e-22ec-471c-b010-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fecal occult blood test (FOBT)",
+			"definition" : "A test that looks for blood in the stool that cannot be seen with the eyes.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9f-7d0c-4351-9857-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Occult blood",
+			"definition" : "Blood that is hidden or invisible to the eye.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba0-7264-4122-814c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Polyp *",
+			"definition" : "A small growth on the lining of an organ or body part, such as the colon, bladder, uterus, vocal cords or nose.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba1-92ac-4cbd-9f04-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Sigmoidoscopy",
+			"definition" : "A test that uses a hollow tube with light and camera to look at or treat the colon and rectum.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba2-6478-4cff-80b9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Stool test",
+			"definition" : "A test that looks at body waste to check for problems with the stomach, intestines or other parts of the digestive system.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba3-6f04-4c45-856e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Abdominal pain",
+			"definition" : "Pain in the part of the body that lies below the chest and above the pelvis.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba4-e194-402b-b15e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Constipation",
+			"definition" : "Difficulty having a bowel movement.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba5-3658-41d5-ade9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Diarrhea",
+			"definition" : "Having loose bowel movements again and again.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba6-9ee4-4cdb-8468-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colectomy",
+			"definition" : "An operation to remove part or all of the colon.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba7-7fec-4196-8c2c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Polypectomy",
+			"definition" : "The removal of a polyp.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba8-7520-4d24-a929-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colostomy",
+			"definition" : "An operation to make an opening from the colon to the outside of the body through the belly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba9-0560-46cf-a8c3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ileostomy",
+			"definition" : "An operation to make an opening from the last part of the small intestine to the outside of the body through the belly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957baa-16c8-44e6-8efe-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Arsenic",
+			"definition" : "A natural, poisonous material found in rocks and soil.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bab-48b4-43ae-9e41-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Asbestos",
+			"definition" : "A material commonly used for fireproofing or insulating buildings.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bac-b768-4b54-8089-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Occupational exposure",
+			"definition" : "Coming in contact with chemicals or other materials at work that can cause cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bad-a804-41b9-8533-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radon",
+			"definition" : "A radioactive gas released during the breakdown of uranium.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bae-be90-455c-a7f0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Second-hand smoke",
+			"definition" : "Smoke from the burning end of cigarette, cigar or pipe, or breathed out by a smoker.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957baf-fcc8-4415-99ca-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bronchoscopy",
+			"definition" : "A test that uses a hollow tube with a light and camera to look at or treat the windpipe, airways and lungs.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb0-3d60-407c-9c0a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Thoracotomy",
+			"definition" : "A cut to open the chest wall.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb1-4a20-429b-9f19-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hoarse voice",
+			"definition" : "An abnormally deep, harsh voice.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b79-8728-4c35-9fc2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pneumonia",
+			"definition" : "Infection of one or both lungs caused by bacteria, viruses or fungi.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb3-6ca4-4898-aa2a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Shortness of breath",
+			"definition" : "Difficulty breathing or being unable to take full breaths.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb4-d428-40dc-a169-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Wheezing",
+			"definition" : "Difficulty breathing that causes a whistling sound because the airways are narrowed.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb5-b334-452e-9917-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lobectomy",
+			"definition" : "An operation to remove part or all of a lobe from an organ or gland.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb6-c94c-418e-ac48-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Photodynamic therapy (PDT)",
+			"definition" : "A treatment that uses drugs that react to light to treat a disease.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb7-785c-4289-acd9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pneumonectomy",
+			"definition" : "An operation to remove part or all of a lung.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb8-e6c4-46dd-9edf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Transplant",
+			"definition" : "Moving tissue or an organ from one place in a person\u2019s body to another. Or moving tissue from a donor to another person.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bb9-8c24-407c-8e41-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Esophagitis",
+			"definition" : "Inflammation of the esophagus that can make it hard to swallow.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bba-e510-4b06-896d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Neutropenia",
+			"definition" : "Not enough white blood cells that help the body fight bacteria, viruses and fungus.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bbb-1a70-43b4-b7a0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gynecology *",
+			"definition" : "The study of the health of women\u2019s reproductive organs, including the uterus, cervix, ovaries, Fallopian tubes, vagina and vulva.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bbc-93c8-4ab5-be01-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "HPV vaccine *",
+			"definition" : "A vaccine that helps prevent infection with human papillomavirus (HPV).",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bbd-23f4-4b8a-9037-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Human papillomavirus (HPV) *",
+			"definition" : "A virus that causes warts or lead to cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bbe-78b8-4a10-8be0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Wart",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bbf-e3dc-43ba-87d1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Colposcopy *",
+			"definition" : "A test that uses a lighted magnifying tool to examine the vulva, vagina and cervix.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc0-ee28-4e2b-945d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dysplasia",
+			"definition" : "Cells that are changing their size, shape and organization within tissue and are likely to become cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc1-cb40-4e08-925f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pap test *",
+			"definition" : "A test that scrapes cells from the cervix and looks at them under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc2-0718-4492-8e85-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pelvic exam *",
+			"definition" : "A physical exam that checks for changes in a woman\u2019s reproductive organs, including the uterus, cervix, ovaries and vagina.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc3-b0f0-4de4-b562-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Pre-cancerous cells",
+			"definition" : "Can become cancer or is likely to become cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc4-9bfc-4523-afcd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Reproductive system *",
+			"definition" : "The organs in the body involved in reproducing children. In women, the reproductive organs are the ovaries, Fallopian tubes, uterus, cervix and vagina. In men, they are the testicles, prostate and penis.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc5-ee20-4db6-a82b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Uterus",
+			"definition" : "The organ in a woman\u2019s body that holds and nourishes the baby during pregnancy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba3-6f04-4c45-856e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Abdominal pain",
+			"definition" : "Pain in the part of the body that lies below the chest and above the pelvis.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc7-598c-422b-a5c9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cyst",
+			"definition" : "A fluid-filled sac inside the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc8-c51c-4f2e-84a6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cone biopsy *",
+			"definition" : "Removing a cone-shaped piece of tissue from the cervix to look at the cells under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bc9-79d4-4323-9a43-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hysterectomy",
+			"definition" : "An operation to remove the uterus.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bca-f310-489c-8da3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Trachelectomy *",
+			"definition" : "An operation to remove the cervix and the pelvic lymph nodes.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bcb-fd14-401a-9351-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bowel obstruction",
+			"definition" : "Blockage of the colon or small intestine so that waste cannot pass out of the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b71-cf48-43ce-a5d1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infertility",
+			"definition" : "Not being able to have children.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b93-9a3c-4cb5-97ab-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Treatment-induced menopause",
+			"definition" : "The permanent end of menstruation that happens when the ovaries are removed or they are damaged by chemotherapy or radiation therapy.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b95-6944-47dd-a20f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Aspirin",
+			"definition" : "A drug that stops pain, fever and inflammation.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b05-4b34-4dbf-a69f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Body mass index (BMI)",
+			"definition" : "A measurement used to tell if people are underweight, overweight, obese or in the normal weight range for their height.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd0-f840-4131-b7ac-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Epstein-Barr virus (EBV)",
+			"definition" : "A virus that causes a highly infectious disease that may lead to cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd1-95ac-491c-84ff-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Helicobacter pylori (H. pylori)",
+			"definition" : "A type of bacteria that causes inflammation and ulcers in the stomach and small intestine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b9e-22ec-471c-b010-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fecal occult blood test (FOBT)",
+			"definition" : "A test that looks for blood in the stool that cannot be seen with the eyes.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd3-47f8-41e6-aeeb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Stomach lining",
+			"definition" : "The thin, moist lining of the stomach that makes juices to help with digestion and mucus to protect the stomach.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd4-e9e8-422d-9217-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ultrasound",
+			"definition" : "A test that uses high-frequency sound waves to make pictures of structures and organs inside the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd5-3b70-4599-ac99-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Upper gastrointestinal (GI) endoscopy",
+			"definition" : "A test that uses a hollow tube with a light and camera to look inside the mouth, down the throat and esophagus to the stomach and upper part of the small intestine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd6-82d0-450b-ada7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Upper gastrointestinal (GI) series",
+			"definition" : "A test that uses x-rays to make a series of pictures of the upper gastrointestinal (GI) tract, including the esophagus, stomach and duodenum.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd7-11c0-4e2d-bac9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Indigestion",
+			"definition" : "Not being able to digest or difficulty digesting food.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd8-e648-4ef5-b7c6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Polyp",
+			"definition" : "A small growth on the lining of an organ or body part, such as the colon, bladder, uterus, vocal cords or nose.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd9-a82c-4317-b6de-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ulcer",
+			"definition" : "An open sore on the skin or in a thin, moist layer of tissue in the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bda-ca3c-4527-81b5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gastrectomy",
+			"definition" : "An operation to remove part or all of the stomach",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957baa-16c8-44e6-8efe-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Arsenic",
+			"definition" : "A natural, poisonous material found in rocks and soil.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bac-b768-4b54-8089-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Occupational exposure",
+			"definition" : "Coming in contact with chemicals or other materials at work that can cause cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bdd-b8f0-4a85-8969-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cystoscopy *",
+			"definition" : "A test that uses a hollow tube with a light and camera to look at or treat the bladder and urethra.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bde-6794-4fdd-8399-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urinalysis",
+			"definition" : "A test of the urine to find out its contents and describe what it looks and smells like.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bdf-6b7c-4ade-a771-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urine culture",
+			"definition" : "A test that checks if there is bacteria in the urine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be0-1c9c-48aa-86cd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urine cytology",
+			"definition" : "A test of the cells that are shed by the lining of the bladder into the urine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be1-b03c-4079-92ff-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bladder spasm",
+			"definition" : "A sudden tightening of the bladder muscle that causes a need to urinate or urine to leak from the bladder.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be2-088c-4d51-8079-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dysuria",
+			"definition" : "Having trouble or pain when urinating.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be3-c360-4934-b7e7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hematuria",
+			"definition" : "Blood in the urine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be4-5664-47e8-a6f3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cystectomy",
+			"definition" : "An operation to remove all or part of the bladder.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be5-4980-4381-81f8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Incontinence",
+			"definition" : "Not being able to control bowel movements or urination.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b71-cf48-43ce-a5d1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infertility",
+			"definition" : "Not being able to have children.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be7-4830-4433-b63f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ostomy",
+			"definition" : "An operation to make an opening between an organ or structure inside the body and outside of the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be9-55dc-447e-a499-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Indoor tanning",
+			"definition" : "Using tanning beds or sun lamps that give off ultraviolet radiation (UVR) to tan the skin.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be8-8390-4c20-bcf9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bea-ea0c-43ee-8bc6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Sunscreen",
+			"definition" : "A cream, lotion or gel applied to the skin to help protect it from the harmful rays of the sun.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957beb-37c8-4c4d-9dff-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ultraviolet (UV) radiation",
+			"definition" : "Invisible rays of light that are part of the energy that comes from the sun or that are made by sun lamps or tanning beds.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bec-a97c-45f1-b59e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Excisional biopsy",
+			"definition" : "Removing all of the tumour or abnormal tissue, along with some normal tissue around it, to look at them under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bed-9f4c-4ab5-8071-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Incisional biopsy",
+			"definition" : "Removing a small sample of the tumour or abnormal tissue to look at it under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bee-0b00-410b-8b43-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Punch biopsy",
+			"definition" : "Removing a disc-shaped piece of skin or other tissue using a sharp, hollow tool to look at it under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bef-3ffc-4c83-a3f5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Shave biopsy",
+			"definition" : "Removing the outermost layer of skin to look at it under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf0-9184-478d-a9ce-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin exam",
+			"definition" : "A physical exam that checks for changes in or problems with the skin.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf1-4590-4052-b1cc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Melanoma",
+			"definition" : "A growth on the skin that may be cancerous.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf3-62d4-453a-b072-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Mole",
+			"definition" : "A tan, brown or flesh-coloured growth on the skin.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf3-efc4-4383-a359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Excisional skin surgery",
+			"definition" : "Surgery to remove moles, cysts, skin cancer, and other skin growths.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf4-12ec-441a-b375-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin flap",
+			"definition" : "A piece of skin with its own blood supply that is used to cover or fix an injury at a nearby place on the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf5-7608-4496-a7c1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin graft",
+			"definition" : "A piece of skin taken from a donor or another part of the body and used to replace diseased or injured tissue.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf7-a5f0-4be4-b621-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Aflatoxin",
+			"definition" : "A poison made by moulds and fungi that can spoil stored foods.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf8-ec5c-469e-b3cd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cirrhosis",
+			"definition" : "Scarring of the liver.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bfa-7110-4764-92ec-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hepatitis *",
+			"definition" : "Inflammation of the liver.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957aeb-68c0-416e-8438-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Liver",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bf9-29f8-48aa-8df8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Scar",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bfb-c6c0-4114-8b76-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Angiography",
+			"definition" : "A test that takes an x-ray of the blood vessels using a dye that is injected into the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bfc-f794-4ec7-9c00-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Laparoscopy",
+			"definition" : "A test that uses a hollow tube with a light and camera to look at or treat organs inside the belly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bfd-ed08-4ca3-a101-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Tumour marker",
+			"definition" : "A substance in the body that may suggest the person has a certain type of cancer.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957bd4-e9e8-422d-9217-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ultrasound",
+			"definition" : "A test that uses high-frequency sound waves to make pictures of structures and organs inside the body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957ba3-6f04-4c45-856e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Abdominal pain",
+			"definition" : "Pain in the part of the body that lies below the chest and above the pelvis.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c00-3290-40d2-877b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Jaundice",
+			"definition" : "When the skin and whites of the eyes become yellow, and the urine is dark yellow.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c01-fd94-4c20-b825-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hepatectomy",
+			"definition" : "An operation to remove part or all of the liver.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c02-9330-4df8-9f26-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Transplant",
+			"definition" : "Moving tissue or an organ from one place in a person\u2019s body to another.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c03-d0c4-45ad-97f9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ascites",
+			"definition" : "Buildup of fluid in the abdomen.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c04-8df8-4699-bacf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hepatic encephalopathy",
+			"definition" : "A condition that affects the brain because the liver does not work properly.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c00-3290-40d2-877b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Jaundice",
+			"definition" : "When the skin and whites of the eyes become yellow, and the urine is dark yellow.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-69e4-48e0-af4f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Control high blood pressure",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c07-a9b4-45a4-ac64-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Eat more fruits and vegetables",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-29b8-4c7a-a986-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Maintain a healthy weight",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c06-ead4-4f81-9cdb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Quit smoking",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0c-b590-4574-9099-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "A mass in the\u00a0abdomen",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0f-7134-450c-9697-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ascites \u2013 water in the abdomen",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0d-48dc-40c4-96ec-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Back pain",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0b-4c08-4498-8213-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hematuria, the presence of red blood cells in the urine",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0b-3a44-4c8b-9d31-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hydronephrosis\u00a0\u2014 literally \"water inside the kidney\"",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0e-2184-4ed9-8a7c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lower limb swelling",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c11-08ec-4673-b843-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Abdominal Computed tomography(CT) scan",
+			"definition" : "A test that uses a computer to put many x-rays together to create a 3-D picture of organs, tissues, bones and blood vessels in the body",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b0e-1ba0-4d89-b82b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Biopsy",
+			"definition" : "Taking cells or tissues from the body to look at them under a microscope.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c14-06ac-4334-85c3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cystography is a procedure to visualize the urinary tract. Using a urinary catheter, radiocontrast is instilled in the bladder, and X-ray imaging is performed",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c11-e874-4cb5-ba81-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Magnetic resonance imaging(MRI) scan\r\n test that uses a magnetic field to make very detailed pictures of the inside of the body.",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c12-2a1c-4245-b752-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Positron Emission Tomography(PET) scan",
+			"definition" : "An imaging test that uses a radioactive substance called a tracer to look for tiny deposits of cancer in the body",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b43-396c-44ed-8043-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemotherapy",
+			"definition" : "A treatment that uses drugs to kill or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c18-aba8-4416-b4db-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Immunotherapy",
+			"definition" : "\u00a0A treatment that uses your body's own immune system to help fight cancer",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c15-5108-451d-8494-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nephrectomy",
+			"definition" : "Sometimes this involves removing the whole kidney, which is called nephrectomy\u00a0but most tumors are amenable to\u00a0partial nephrectomy\u00a0which is removing the diseased part of the kidney only",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5c-f830-4d77-9359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation therapy",
+			"definition" : "A treatment that uses high-energy rays or particles, such as x-rays, to damage or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b23-e51c-4e55-ad8e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Anemia",
+			"definition" : "Not enough healthy red blood cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c1d-bc98-4f47-8aaa-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ascites",
+			"definition" : "Buildup of water in the abdomen",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c1b-0904-48cc-88a2-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "High blood pressure",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c1a-0d10-4ae6-9307-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Metastasis",
+			"definition" : "Spead of the cancer to other places in the body",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c1c-8924-4a67-af23-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Too much calcium in the blood",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c24-fa90-49f7-8e1f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Avoid exposure to HIV, practice safe sex",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c23-0d2c-4616-a043-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Avoid radiation",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-69e4-48e0-af4f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Control high blood pressure",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c07-a9b4-45a4-ac64-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Eat more fruits and vegetables",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-29b8-4c7a-a986-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Maintain a healthy weight",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c06-ead4-4f81-9cdb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Quit smoking",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c2d-72bc-4305-bd44-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "anorexia",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c32-9efc-4081-a15e-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "bloating",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c30-5594-4089-b526-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "chronic abdominal pain",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c33-73e8-4dbd-91f9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "CNS lymphoma",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c32-28e8-45bc-87a8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "early satiety",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b26-f488-43df-84b7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fatigue",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b27-2674-4452-aeb6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fever",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c36-5140-464b-96dc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Focal neurologic symptoms",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c2c-3d5c-4d41-8a67-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Gastrointestinal lymphoma",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c34-c5cc-42af-8f68-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "headache",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c2a-aee4-4ee2-8ac5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Itching",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c36-2048-4263-83c8-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lethargy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b2f-acd4-41a3-8507-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nausea",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3b-7d5c-481b-9251-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Neck stiffness",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c27-7e50-4e81-8e44-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Night sweating",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c38-61a8-408c-894a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "paralysis",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c25-aa7c-4644-a93b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Rapidly growing",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c37-dc34-4969-8bfc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Seizures",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c2b-2524-4043-b3d9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Skin rash",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c39-28c4-473a-8846-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Spinal cord compression",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c2f-7898-41e5-aca3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "vomit",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c28-d9b8-4029-8bd5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Weight loss",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3b-5b28-4282-b268-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Blood tests (example CBC, LDH, electrolytes)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c40-70e4-4080-b832-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bone marrow biopsy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3c-8490-4aa1-ac02-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "CT scan",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3f-6c58-482b-8591-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Lymph node biopsy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3d-7f18-4a3e-ad7b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "MRI",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3e-0c1c-4f58-869c-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "PET scan",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c42-31c0-44a1-9def-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemotherapy",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c44-a8a4-4eb6-bac5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Fertility preservation",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5c-f830-4d77-9359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation therapy",
+			"definition" : "A treatment that uses high-energy rays or particles, such as x-rays, to damage or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c46-0708-452b-a161-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Stem cell transplant",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c48-bb1c-4394-964d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cardiac disease",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b6f-3ad0-4823-9571-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hair loss",
+			"definition" : "Balding or loss of hair from the scalp or body.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c49-9f60-432b-87a0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hypothyroidism from radiation",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c4a-de44-4315-a2d0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infertility",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c48-a08c-4ffd-b8a0-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "other malignancies",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c28-d9b8-4029-8bd5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Weight loss",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c50-ed64-4364-8cfc-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Avoiding estrogen replacement therapy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c4f-56b8-429e-a867-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Balanced Diet (Diabetes is a risk factor)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c4e-8340-4be7-b280-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Having Children (No children is a risk factor)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c4e-8e54-429e-91a5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Maintain Healthy Body Weight (Obesity is a risk factor)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c52-18c0-4954-af53-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Abnormal vaginal bleeding",
+			"definition" : "Bleeding in between menstral cycles",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c51-0e74-42a6-b1bd-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Increasing abdominal mass",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c28-d9b8-4029-8bd5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Weight loss",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c55-29f8-4b4b-b951-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Blood tests (specifically for serum human chorionic gonadotropin testing to rule out pregnancy, complete blood count looking for anemia, CA-125 tumor marker)",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c58-6b98-4cd9-b399-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "CT scan",
+			"definition" : "Looking for spread of the cancer",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c57-4d60-4728-b43d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Endometrial biopsy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c59-9c48-4b98-a3bf-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "MRI",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c54-e33c-409e-9aa7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Physical examination of the uterus for size, mass or pain",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c56-20d8-4da6-af96-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Transvaginal Ultrasound looking for increased endometrial thickness",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c42-31c0-44a1-9def-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemotherapy",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5c-f830-4d77-9359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation therapy",
+			"definition" : "A treatment that uses high-energy rays or particles, such as x-rays, to damage or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c5b-0690-4697-837d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Surgery",
+			"definition" : " Hysterectomy, +\/- Oophorectomy, +\/- peripheral lymph node dissection looking for spread",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c60-bea0-4fcd-a466-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bladder dysfunction",
+			"definition" : " either urinary retention from mass compression or incontinence from surgery complication",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c5e-5e10-4acb-b09a-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Infertility in younger patients",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c61-1a74-440c-8726-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Local invasion of the vagina",
+			"definition" : " inability to have intercourse",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c60-495c-4382-86f9-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Metastasis",
+			"definition" : " spread of the cancer to distant organs",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-69e4-48e0-af4f-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Control high blood pressure",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c07-a9b4-45a4-ac64-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Eat more fruits and vegetables",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c09-29b8-4c7a-a986-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Maintain a healthy weight",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c06-ead4-4f81-9cdb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Quit smoking",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c0d-48dc-40c4-96ec-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Back pain",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c6b-d7a0-4319-aa27-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Decreased urine stream caliber",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c6c-e874-4401-9efa-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Dribbling",
+			"definition" : " urine dribbling",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c66-3eac-4d45-b7d1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Frequency",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c6d-b104-4be6-b550-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hematospermia",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957be3-c360-4934-b7e7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hematuria",
+			"definition" : "Blood in the urine.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c69-5d24-4fb7-a6e7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hesitancy",
+			"definition" : " difficulty initiating urination",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c68-4d20-4216-88c6-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Nocturia",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c6a-64ac-43f9-a16b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Sensation of incomplete voiding",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c67-4270-4190-a65d-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urgency",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c72-b590-4934-a952-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Blood tests",
+			"definition" : " Prostate specific antigen (PSA) elevated in most types of prostate cancer",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c76-f730-4165-81cb-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Bone scan",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3c-8490-4aa1-ac02-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "CT scan",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c14-06ac-4334-85c3-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Cystography is a procedure to visualize the urinary tract. Using a urinary catheter, radiocontrast is instilled in the bladder, and X-ray imaging is performed",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c71-c164-4018-b006-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Digital rectal exam",
+			"definition" : " index finger is inserted into rectum to feel the prostate gland.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c3d-7f18-4a3e-ad7b-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "MRI",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c73-6ce8-4740-a504-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Ultrasound-guided prostate biopsy",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c42-31c0-44a1-9def-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Chemotherapy",
+			"definition" : "",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c7a-8c4c-4601-ad30-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hormonal therapy",
+			"definition" : " using drugs to suppress testosterone production",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957b5c-f830-4d77-9359-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Radiation therapy",
+			"definition" : "A treatment that uses high-energy rays or particles, such as x-rays, to damage or destroy cancer cells.",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c78-a348-4415-b198-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Surgery",
+			"definition" : "Trans-urethral prostate resection",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c82-11c0-4949-a3d7-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Hypercalemia",
+			"definition" : " too much calcium in the blood",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c7d-516c-4319-9e45-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Metastasis of the cancer",
+			"definition" : " spread to bones and lungs causing pain",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c7f-fc44-463c-bb12-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Sexual dysfunction",
+			"definition" : " inability to have an erection",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c7e-1240-4b93-80a5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urinary incontinence",
+			"definition" : " inability to control when to urinate",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c80-8840-41e8-8cf1-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Urinary retention",
+			"definition" : " inability to empty the bladder",
+			"locale" : "eng"
+		}
+	}, {
+		"Term" : {
+			"uuid" : "56957c28-d9b8-4029-8bd5-0f58b6f72614"
+		},
+		"TermTranslation" : {
+			"term" : "Weight loss",
+			"definition" : null,
+			"locale" : "eng"
+		}
+	}
+]

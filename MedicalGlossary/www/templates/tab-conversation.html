@@ -1,0 +1,30 @@
+<ion-view view-title="Conversation">
+  <ion-content class="padding">
+	<div class="list list-inset">
+		<label class="item item-input">
+			<i class="icon ion-search placeholder-icon"></i>
+			<input ng-model="query" type="text" placeholder="Search">
+		</label>
+	</div>
+	 
+	<ion-list >
+	<div ng-repeat="topic in conversations" >
+	<div class="item item-divider" ng-bind="topic.Translations[0].text" ></div>
+	<ion-item ng-repeat="term in topic.Translations" class="item item-button-right" ng-if="$index>1">			 
+						 
+
+		<div  ng-bind="term.text"></div>
+		<div ng-repeat="m in term.media">
+		<button class="icon ion-volume-medium" ng-click="playAudio('audioNumber'+m)" >
+		</button>
+		<audio id="audioNumber{{m}}"  >
+			<source type="audio/mpeg" ng-src="{{'data/audio/crl/'+m | trustedURL}}">
+		</audio>
+		 </div>
+		
+								  
+	</ion-item>
+	</div>
+	</ion-list>
+ </ion-content>
+</ion-view>

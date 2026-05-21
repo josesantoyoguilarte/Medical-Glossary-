@@ -1,0 +1,54 @@
+<ion-view  view-title="Glossary">
+	<ion-nav-bar>
+	
+	<ion-side-menus>
+			
+			  <!-- Center content -->
+
+		<ion-side-menu-content>
+			<ion-content class="padding">
+					
+						
+			<ion-list>
+				<div class="list list-inset">
+					<label class="item item-input">
+						<i class="icon ion-search placeholder-icon"></i>
+						<input ng-model="query" type="text" placeholder="Search">
+						
+					</label>
+				</div>
+				<h2>{{category.name}}</h2>
+				<ion-item  ng-repeat="term in terms  | filter:query " ng-click="toggleVisibility($index)">
+						 
+					<h2 ng-bind="term.TermTranslation.term"></h2>
+						 
+					<p ng-bind-html="term.TermTranslation.definition | html"></p>
+					<detail-view class="ion-arrow-down-b" uuid="term.uuid" term="term.details" locales="locales" ng-show="term.visible" ></detail-view>
+							
+						  
+				</ion-item>
+						  
+			</ion-list>
+			</ion-content>
+		</ion-side-menu-content>
+				
+			  <!-- Left menu -->
+		<ion-side-menu expose-aside-when="large">
+			<ion-content class="padding">
+				<ion-list>
+					<ion-item ng-repeat="id in ids" ng-init=" uuid = (id | getUUID);" ng-click="showCategory(uuid)">
+								
+						<p ng-bind="categories[uuid].name"></p>
+						
+						<!-- <p ng-bind="categoryTerm.Terms.TermTranslation.term"></p>
+						
+						<detail-category class="ion-arrow-down-b" ng-show="categoryTerm.Terms.term.visible"></detail-category> -->
+								
+					</ion-item>
+				</ion-list>
+			</ion-content>
+		</ion-side-menu>
+			
+	</ion-side-menus>
+<ion-nav-bar/>	
+</ion-view>

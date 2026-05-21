@@ -1,0 +1,373 @@
+{
+	"name" : "General organs and systems",
+	"uuid" : "56957add-4048-46b1-b882-0f58b6f72614",
+	"term_count" : "40",
+	"locale" : "eng",
+	"Parent" : {
+		"name" : "Medical",
+		"uuid" : "569579ca-5548-4b16-a576-28c8b6f72614",
+		"term_count" : "65"
+	},
+	"Terms" : [{
+			"Term" : {
+				"uuid" : "56957aeb-7df8-4282-a88f-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Anus",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae5-7360-4dce-b807-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Appendix",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af1-1680-43cc-ae61-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Artery",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957add-d568-4fd0-8948-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Bladder",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957afe-9e0c-46ab-b237-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Blood",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af0-991c-40ad-b8a9-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Bloodstream",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aeb-33e8-468c-a12b-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Bone",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957adc-3c5c-414e-ad63-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Brain",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aee-d22c-4a74-a565-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Breast",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957afd-5284-4959-9048-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Cervix",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae1-609c-4e4f-b6cf-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Colon\/Large intestine",
+				"definition" : "The longest part of the large intestine.",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af3-2d04-4858-9a27-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Diaphragm",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957afb-eac0-4547-baf5-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Epididymis",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "569579cb-2a64-40a7-a825-28c8b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "fat",
+				"definition" : "(In \u003Cb\u003EDiabetes\u003C\/b\u003E)",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae6-f318-4477-9979-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Gallbladder",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "569579cb-3944-40b8-a42c-28c8b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "immune system",
+				"definition" : "(In \u003Cb\u003EContagious\u003C\/b\u003E)",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af7-28dc-43dc-ae6a-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Kidney",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aeb-68c0-416e-8438-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Liver",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aed-2bbc-4348-8f16-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Lung",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957b02-354c-4c50-b18b-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Lymph",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af4-4730-4ba0-8a6c-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Lymph nodes",
+				"definition" : "*contains mostly white blood cells {part of the immune system)",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957afc-1250-48a4-9b85-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Marrow",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aec-e378-454b-9a05-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Muscle",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aef-8234-4596-a1b0-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Nipple",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae3-1f84-4cd2-b277-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Organs in the abdominal cavity\/Viscera, including intestines, liver, kidneys, etc.",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957afa-1188-40de-b7b7-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Ovaries",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ade-b8a4-4aaa-93fc-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Pancreas",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af9-83bc-42cd-99f1-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Placenta",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957b01-d89c-4ae5-9c77-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Platelets",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957adf-b498-4599-9581-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Prostate",
+				"definition" : "The prostate releases a type of fluid for the sperm to swim (semen). This is only found in men and as men get older, the prostate gets larger.",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aeb-a174-494c-b2a3-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Rectum",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957b00-664c-415b-87c3-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Red Blood Cell",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae2-49b4-43f9-89ba-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Small Intestine",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af5-96a0-4730-bd81-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Spleen",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae5-0618-42a8-a572-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Stomach",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957ae0-cac0-4401-a585-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Testicles",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af2-2bbc-4607-85a7-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Tonsils",
+				"definition" : "",
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af8-5ff0-4392-b2b0-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Urethra",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957af6-a990-4baa-acaf-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "Uterus",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}, {
+			"Term" : {
+				"uuid" : "56957aff-12f4-4fe1-81b6-0f58b6f72614"
+			},
+			"TermTranslation" : {
+				"term" : "White Blood Cell",
+				"definition" : null,
+				"locale" : "eng"
+			}
+		}
+	]
+}

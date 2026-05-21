@@ -1,0 +1,331 @@
+{
+    "1":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Where does it hurt?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"tâniteh e âhkuhîkuyin?",
+                    "media":[
+                        "ecs_pain_q_1a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"tânith e âhkusiyin?",
+                    "media":[
+                        "ecs_pain_q_1b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"tânith iyaakusiyin?",
+                    "media":[
+                        "ecn_pain_q_1.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "2":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt all the time?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkuhîkun?",
+                    "media":[
+                        "ecs_pain_q_2a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkusin?",
+                    "media":[
+                        "ecs_pain_q_2b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"chi kâchichâmihchihûn â?",
+                    "media":[
+                        "ecn_pain_q_2a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"kâchich â chimûshihtân?",
+                    "media":[
+                        "ecn_pain_q_2b.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "3":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt all the time in the same way?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkuhîkun cheshtinâh mûsh peyakunihch e itamahchihtâyin?",
+                    "media":[
+                        "ecs_pain_q_3a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkusin peyakunihch e itamahchihtâyin?",
+                    "media":[
+                        "ecs_pain_q_3b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"kâchich â chimûshihtân kiyâh pâyikunihch â chititimihchihtân?",
+                    "media":[
+                        "ecn_pain_q_3.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "4":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"When it hurts does it hurt for a long time?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"e âhkuhîkuyin chineush â chitâhkuhîkun?",
+                    "media":[
+                        "ecs_pain_q_4a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkusin e âhkuhîkuyin chineush?",
+                    "media":[
+                        "ecs_pain_q_4b.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "5":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt very much?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"mishtahii â chitâhkuhîkun?",
+                    "media":[
+                        "ecs_pain_q_5.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"nâshch â chitâkuhiikun?",
+                    "media":[
+                        "ecn_pain_q_5.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "6":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt so much that you think about it all the time?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"mûsh â chitâhkuhîkun cheshtinâh mûsh che chî mâmituneyihtimahîkuyin ane?",
+                    "media":[
+                        "ecs_pain_q_6a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mishtahii â chitâhkuhîkun eukun muk e mâmituneyihtimin?",
+                    "media":[
+                        "ecs_pain_q_6b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"an mûshihuyin kâchich â âukw mikw miyâmitunâyihtimihîkuyin?",
+                    "media":[
+                        "ecn_pain_q_6.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "7":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt so much that you can’t think about anything else?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"nâshch â chitâhuhîkun cheshtinâh pishishikw eukun  mâmituneyihtimin?",
+                    "media":[
+                        "ecs_pain_q_7a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mishtahii â chitâhkuhîkun eka mitun kutak chekwan chi mâmituneyihtimin?",
+                    "media":[
+                        "ecs_pain_q_7b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"nâshch miyâhkuwîkuyin nimi châkwân â mîn chimâmitunâyihtimihîkun?",
+                    "media":[
+                        "ecn_pain_q_7.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "8":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt always in the same place?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"peyakunihch â chitâhuhîkun?",
+                    "media":[
+                        "ecs_pain_q_8a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mishtahii â chitâhkuhîkun peyakunihch anith?",
+                    "media":[
+                        "ecs_pain_q_8b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"pâyikunihch â ânith mûsh chimûshihtân?",
+                    "media":[
+                        "ecn_pain_q_9.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "9":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt so much that you can’t do anything?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"nâshch â chitâhkuhîkun eka mitun wiyesh che chi ihtiyin?",
+                    "media":[
+                        "ecs_pain_q_9a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crj",
+                    "text":"mishtahii â chitâhkusin eka mitun wiyesh che chi itâpatisiisuyin?",
+                    "media":[
+                        "ecs_pain_q_9b.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"nâshch â chimâkuhîkun nâshtiyish âhâkâ châkwân chiih ihtutimin?",
+                    "media":[
+                        "ecn_pain_q_9.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "10":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Does it hurt so much that you think “I can die because of this?”"
+                },
+                {
+                    "locale":"crj",
+                    "text":"nâshch â chitâhkuhîkun che chi iteyihtamin namui nika uhchi pimatisiin?",
+                    "media":[
+                        "ecs_pain_q_10.mp3"
+                    ]
+                },
+                
+                {
+                    "locale":"crl",
+                    "text":"nâshch â kiyâh chimâmitunâyihtimihîkun â îtâyihtimin nimui niki nûkuhîkun û?",
+                    "media":[
+                        "ecn_pain_q_10a.mp3"
+                    ]
+                },
+                {
+                    "locale":"crl",
+                    "text":"nâshch â kiyâh chimâkuhîkun û â îtâyihtimin nimui nânitiu niki nûkuhîkun? ",
+                    "media":[
+                        "ecn_pain_q_10b.mp3"
+                    ]
+                }
+            ]
+        
+        
+    },
+    "11":{
+        "Translations":[
+                {
+                    "locale":"eng",
+                    "text":"Is it like this: it hurts at some time, after this it doesn’t hurt for some time, after this it hurts (again) like before?"
+                },
+                {
+                    "locale":"crj",
+                    "text":"ûteh â chika chi itwen: nitâkuhîkun âskû, âskû namui nitâkuhîkun, âskû mîn kâu iyâhkuhîkuyin nîshtam kâ itamachihûyin?",
+                    "media":[
+                        "ecs_pain_q_11.mp3"
+                    ]
+                },
+                
+                {
+                    "locale":"crl",
+                    "text":"ûtâh â chititimihchihûn: mûshihtâyin, mîn mâk âkâ mûshihtâyin, mîn mâk mwâshihtâyinh, atitiu â chitâhkusin?",
+                    "media":[
+                        "ecn_pain_q_11.mp3"
+                    ]
+                }
+            ]
+        
+        
+    }
+}

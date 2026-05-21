@@ -1,0 +1,561 @@
+﻿[
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Prevention"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Aspirin",
+            "definition":"A drug that stops pain, fever and inflammation.",
+            "notes":"ECD: "
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒥᔥᑎᒀᓂᑐᐦᑯᔨᓐ",
+            "term":"mishtikwânituhkuyin ",
+            "note":"aspirin, literally 'head medicine'"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒥᔥᑎᒀᓂᑐᐦᑯᔨᓐ",
+            "term":"mishtikwânituhkuyin",
+            "note":"aspirin, literally 'head medicine'"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Prevention"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Body mass index (BMI)",
+            "definition":"A measurement used to tell if people are underweight, overweight, obese or in the normal weight range for their height.",
+            "notes":"See General Cancer Terms - Prevention"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋ ᐐᐦᑎᒫᒑᐱᔨᒡ ᑖᓐ ᒋᐱᐦ ᐃᔅᐱᐦᑎᓂᑯᑎᓐ ᐊᓐ ᐋ ᐃᔅᑳᐳᔨᓐ",
+            "term":"â wîhtimâchâpiyich tân chipih ispihtinikutin an â iskâpuyin ",
+            "note":"a measure of how you should weigh compared to your height"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᐐᐦᑕᒫᒉᒪᑲᐦᒡ ᑖᓐ ᒋᐸᐦ ᐃᔅᐸᐦᑎᓂᑯᑎᓐ ᐊᓐ ᐁ ᐃᔅᑯᑳᐳᔨᓐ",
+            "term":"e wîhtamâchemakahch tân chipah ispahtinikutin an e iskukâpuyin",
+            "note":"a measure of how you should weigh compared to your height"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Prevention"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Colon",
+            "definition":"The longest part of the large intestine."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐅᑎᑖᒥᔨᐤᐦ",
+            "term":"utitâmiyiuh ",
+            "note":"all its (anim) intestines - large and small intestines, colon, viscera, includes all organs in the abdomenal cavity"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐅᑎᒋᔒᐦ",
+            "term":"utichishîh ",
+            "note":"its (anim) intestines"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐅᑕᒋᔒᐦ",
+            "term":"utachishîh",
+            "note":"her/his/its (anim) intestines"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Prevention"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Dietary fibre",
+            "definition":"The part of fruit, vegetables, beans and grains that the body cannot break down but that helps the body move and digest food.",
+            "notes":"Diabetes: Under Soluble Fibre –**is soluble Fibre  different than Dietary fibre?"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋᐦ ᒥᔪᐎᔨᐐᔥᑳᒑᒡ"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᑳ ᒥᔪᐐᐐᔥᑳᒉᐸᔨᐦᒡ"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Prevention"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Inflammatory bowel disease",
+            "definition":"When the lining of the intestines becomes inflamed, the intestinal walls become swollen and ulcers develop.",
+            "notes":"S: *created by John and Charlotte"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐹᒋᐱᔨᐅᑎᒋᔖᐅᐙᔅᐱᓈᐎᓐ (inflamed swelling of the intestines disease) ᐋ ᐹᒋᐱᔨᑦ ᑭᔮᐦ ᐋ ᐅᒥᒌᑦ ᐊᐙᓐ ᐅᑎᒋᔒᐦᒡ ᐋ ᐃᑖᔅᐱᓈᑦ",
+            "term":"â pâchipiyich kiyâh â umichît awân utichishîhch â itâspinât ",
+            "note":"swelling and sores in the intestines illness"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐹᒋᐸᔫᑕᒋᔐᐅᐙᔅᐸᓀᐎᓐ"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᐹᒋᐸᔨᑦ ᑲᔦᐦ ᐁ ᐅᒥᒌᑦ ᐊᐌᓐ ᐅᑕᒋᔒᐦᒡ ᐁ ᐃᑖᔅᐸᓀᑦ",
+            "term":"e pâchipayit kayeh e umichît awen utachishîhch e itâspanet",
+            "note":"swelling and sores in the intestines illness"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Colonoscopy",
+            "definition":"A test that uses a hollow tube with a light and camera to look at or treat the colon."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"",
+            "term":"â nitûchischâyimâkiniwit awân misinâpiskihîkinishiyiu â pîhchipiyihtâkiniwiyich utichishîhch ",
+            "note":"an examination with a camera inserted into the colon"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᓂᑑᒋᔅᒉᔨᒫᑲᓅᑦ ᐊᐌᓐ ᒪᓯᓈᐱᔅᑲᐦᐄᑲᓂᔑᔫ ᐁ ᐲᐦᒋᐸᔨᐦᑖᑲᓄᐎᔨᒡ ᐅᑕᒋᔒᐦᒡ",
+            "term":"e nitûchischeyimâkanuwit awen masinâpiskahîkanishiyû e pîhchipayihtâkanuwiyich utachishîhch",
+            "note":"an examination with a camera inserted into the colon"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Digital rectal exam (DRE) *",
+            "definition":"A physical exam that checks for problems in the rectum or prostate."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋ ᓂᑑᒋᔅᒑᔨᒫᑭᓂᐎᑦ ᐊᐙᓐ ᐊᓂᑖᐦ ᐋ ᐅᐦᒋ ᒦᓰᑦ",
+            "term":"â nitûchischâyimâkiniwit awân anitâh â uhchi mîsît ",
+            "note":"polite version: a check of where you defecate from"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᓂᑑᒋᔅᒉᔨᒫᑲᓅᑦ ᐊᐌᓐ ᐊᓂᑌᐦ ᐁ ᐅᐦᒋ ᒦᓰᑦ",
+            "term":"e nitûchischeyimâkanuwit awen aniteh e uhchi mîsît",
+            "note":"polite version: a check of where you defecate from"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Enema *",
+            "definition":"Putting a liquid into the colon and rectum through the anus.",
+            "notes":"*Instructions: (instructions to follow)"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒋᑭ ᐲᐦᑖᐹᐅᔨᑰᓐ ᒋᒋᔅᒋᐦᒡ",
+            "term":"chiki pîhtâpâuyikûn chichischihch ",
+            "note":"you’ll be flushed with water anally"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒋᑲ ᐲᐦᑖᐳᔨᑰᓐ ᒋᒋᔅᒋᐦᒡ",
+            "term":"chika pîhtâpuyikûn chichischihch",
+            "note":"you’ll be flushed with water anally"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Fecal immunochemical test (FIT)",
+            "definition":"A test that finds traces of blood in the stool."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋ ᓂᑑᒋᔅᒑᔨᐦᑖᑭᓂᐎᒡ ᐋ ᓅᑯᓂᒀ ᐋ ᓲᐦᒀᒡ ᒋᒫᐃ",
+            "term":"â nitûchischâyihtâkiniwich â nûkunikwâ â sûhkwâhch chimâi ",
+            "note":"a test to see if there’s blood in your stool"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᓂᑑᒋᔅᒉᔨᐦᑖᑲᓄᐎᐦᒡ ᐁ ᓅᑯᓂᑴ ᐁ ᓲᐦᒀᒡ ᒋᒣᐃ",
+            "term":"e nitûchischeyihtâkanuwihch e nûkunikwe e sûhkwâhch chimei",
+            "note":"a test to see if there’s blood in your stool"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Fecal occult blood test (FOBT)",
+            "definition":"A test that looks for blood in the stool that cannot be seen with the eyes."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐊᑎᑎᐤ ᑖᑭᔥ ᐋ ᓂᑑᒋᔅᒑᔨᐦᑖᑭᓂᐎᒡ ᐋ ᐃᐦᑎᑯᓂᒀ ᒥᐦᒄ ᒋᒫᐃᐦᒡ",
+            "term":"atitiu tâkish â nitûchischâyihtâkiniwich â ihtikunikwâ mihkw chimâihch ",
+            "note":"a more thorough test to see if there’s blood in your stool"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁᑎᑑ ᑌᑲᔥ ᐁ ᓈᓂᑑᒋᔅᒉᔨᐦᑖᑲᓄᐎᐦᒡ ᐁ ᐃᐦᑕᑯᓂᑴ ᒥᐦᒄ ᒋᒣᐃᐦᒡ",
+            "term":"etitû tekash e nânitûchischeyihtâkanuwihch e ihtakunikwe mihkw chimeihch",
+            "note":"a more thorough test to see if there’s blood in your stool"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Occult blood",
+            "definition":"Blood that is hidden or invisible to the eye."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋᑳ ᓅᑯᐦᒡ ᒥᐦᒄ ᒥᒄ ᐊᔮᐱᒡ ᐋ ᐃᐦᑎᑯᐦᒡ",
+            "term":"âkâ nûkuhch mihkw mikw ayâpich â ihtikuhch ",
+            "note":"blood that isn’t seen but is still there"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁᑳ ᓅᑯᐦᒡ ᒥᐦᒄ ᒥᒄ ᐊᔮᐸᒡ ᐁ ᐃᐦᑕᑯᐦᒡ",
+            "term":"ekâ nûkuhch mihkw mikw ayâpach e ihtakuhch",
+            "note":"blood that isn’t seen but is still there"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Polyp *",
+            "definition":"A small growth on the lining of an organ or body part, such as the colon, bladder, uterus, vocal cords or nose."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋ ᐊᐱᔑᓂᐦᑖᐅᒋᐦᒡ ᒑᒀᓐ ᐲᐦᑎᐎᔮᐦᒡ, ᒧᔮᒻ ᐊᓂᑖᐦ ᒋᑎᒋᔒᐦᒡ, ᒋᐐᔪᐦᒡ, ᐅᔅᐹᐦᒡ, ᒋᑯᐦᑖᑭᓈᐲᐦᒡ ᑭᔮᐦ ᒫᒃ ᒋᔅᑯᑎᐦᒡ",
+            "term":"â apishinihtâuchihch châkwân pîhtiwiyâhch, muyâm anitâh chitichishîhch, chiwîyuhch, uspâhch, chikuhtâkinâpîhch kiyâh mâk chiskutihch) ",
+            "note":"a small growth on the lining, such as on the colon, bladder, uterus, vocal chords or nose"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᐊᐱᔑᓂᐦᑖᐅᒋᐦᒡ ᒉᒀᓐ, ᒬᐦᒡ ᐊᓂᑌᐦ ᐁ ᓵᒥᑕᒋᓭᔮᒡ ᒋᑕᒋᔒᐦᒡ, ᒋᐐᓅᐦᒡ, ᐅᔅᐸᔫᐦᒡ, ᒋᑯᐦᑖᑲᓀᔮᐲᐦᒡ ᓀᔥᑦ ᒋᔅᑯᑎᐦᒡ",
+            "term":"e apishinihtâuchihch chekwân, mwehch aniteh e sâmitachiseyâch chitachishîhch, chiwînûhch, uspayûhch, chikuhtâkanâpîhch nesht chiskutihch",
+            "note":"a small growth, such as on the inner lining of the colon, bladder, uterus, vocal chords or nose "
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Sigmoidoscopy",
+            "definition":"A test that uses a hollow tube with light and camera to look at or treat the colon and rectum."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋ ᓂᑑᒋᔅᒑᔨᒫᑭᓂᐎᑦ ᐊᐙᓐ ᒥᓯᓈᐱᔅᑭᐦᐄᑭᓂᔑᔨᐤ ᐋ ᐲᐦᒋᐱᔨᐦᑖᑭᓂᐎᔨᒡ ᐅᑎᒋᔒᐦᒡ ᐊᓂᑖᐦ ᐋ ᐎᓂᔅᒀᐹᑭᐦᒡ ᐋ ᐅᐦᒋ ᒦᓰᔨᓐ",
+            "term":"â nitûchischâyimâkiniwit awân misinâpiskihîkinishiyiu â pîhchipiyihtâkiniwiyich utichishîhch anitâh â winiskwâpâkihch â uhchi mîsîyin ",
+            "note":"an examination with a camera inserted into the colon at the end of the rectum"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐁ ᓂᑑᒋᔅᒉᔨᒫᑲᓅᑦ ᐊᐌᓐ ᒪᓯᓈᐱᔅᑲᐦᐄᑲᓂᔑᔫ ᐁ ᐲᐦᒋᐸᔨᐦᑖᑲᓄᐎᔨᒡ ᐅᑕᒋᔒᐦᒡ ᐊᓂᑌᐦ ᐁ ᐗᓂᔅᒀᐯᑲᐦᒡ ᐁ ᐅᐦᒋ ᒦᓰᔨᓐ",
+            "term":"e nitûchischeyimâkanuwit awen masinâpiskahîkanishiyû e pîhchipayihtâkanuwiyich utachishîhch aniteh e waniskwâpekahch e uhchi mîsîyin",
+            "note":"an examination with a camera inserted into the colon at the end of the rectum"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Early Detection & Screening"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Stool test",
+            "definition":"A test that looks at body waste to check for problems with the stomach, intestines or other parts of the digestive system."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒋᒫᐃ ᐋ ᓂᑑᒋᔅᒑᔨᐦᑖᑭᓂᐎᒡ ᑖᓐ ᐋ ᐃᑖᔅᐱᓈᔨᓐ - ᐊᓂᑖᐦ ᒋᑎᔨᐦᒡ ᑭᔮᐦ ᒫᒃ ᒋᑎᒋᔒᐦᒡ",
+            "term":"chimâi â nitûchischâyihtâkiniwich tân â itâspinâyin - anitâh chitiyihch kiyâh mâk chitichishîhch ",
+            "note":"an examination of the stool to check for illness in the stomach and intestines"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒋᒣᐃ ᐁ ᓂᑑᒋᔅᒉᔨᐦᑖᑲᓄᐎᐦᒡ ᑖᓐ ᐁ ᐃᑖᔅᐸᓀᔨᓐ - ᐊᓂᑌᐦ ᒋᑕᐃᐦᒡ ᓀᔥᑦ ᒋᑕᒋᔒᐦᒡ",
+            "term":"chimei e nitûchischeyihtâkanuwihch tân e itâspaneyin - aniteh chitaihch nesht chitachishîhch",
+            "note":"an examination of the stool to check for illness in the stomach and intestines"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Symptoms"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Abdominal pain",
+            "definition":"Pain in the part of the body that lies below the chest and above the pelvis.",
+            "notes":"ECD:"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐋᐦᑯᔥᑎᒋᔖᐤ",
+            "term":"âhkushtichishâu ",
+            "note":"s/he has a stomach-ache"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐋᐦᑯᓯᑕᒋᔐᐤ",
+            "term":"âhkusitachisheu",
+            "note":"s/he has a stomach ache"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Symptoms"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Constipation",
+            "definition":"Difficulty having a bowel movement.",
+            "notes":"ECD:"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒋᐱᑭᐦᒑᐤ",
+            "term":"chipikihchâu ",
+            "note":"s/he is constipated"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒋᐱᑲᐦᒉᐤ",
+            "term":"chipikahcheu",
+            "note":"s/he is constipated"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Symptoms"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Diarrhea",
+            "definition":"Having loose bowel movements again and again.",
+            "notes":"ECD:"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒫᒦᓰᐤ",
+            "term":"mâmîsîu ",
+            "note":"s/he has diarrhea"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒫᒦᓰᐤ",
+            "term":"mâmîsîu",
+            "note":"s/he has diarrhea"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Treatment"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Colectomy",
+            "definition":"An operation to remove part or all of the colon."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒋᑭ ᒥᓂᔑᑭᓂᐤ ᐊᓂᑦᐦ ᒥᒄ ᑳ ᒫᔮᑎᐦᒡ ᒋᑎᒋᔒ ᐋᒄ ᒦᓐ ᑳᐤ ᒑ ᐋᓂᔅᒑᒧᐦᑖᑭᓂᐎᒡ",
+            "term":"chiki minishikiniu anit-h mikw kâ mâyâtihch chitichishî âkw mîn kâu châ ânischâmuhtâkiniwich ",
+            "note":"the bad part of the colon will be cut off and it’ll be reconnected again"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒋᑲ ᒥᓂᔑᑲᓅ ᐊᓂᑦ ᒥᒄ ᑳ ᒫᔮᑎᐦᒡ ᒋᑕᒋᔒ ᐁᒄ ᒦᓐ ᑳᐤ ᒉ ᐋᓂᔅᒉᒧᐦᑖᑲᓄᐎᐦᒡ",
+            "term":"chika minishikanû anit mikw kâ mâyâtihch chitachishî ekw mîn kâu che ânischemuhtâkanuwihch",
+            "note":"the bad part of the colon will be cut off and it’ll be reconnected again"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Treatment"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Polypectomy",
+            "definition":"The removal of a polyp."
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᒋᑭ ᒥᓂᔑᑭᓂᐤ ᐊᓐ ᑳ ᐊᐱᔑᓂᐦᑖᐅᒋᐦᒡ ᒑᒀᓐ",
+            "term":"chiki minishikiniu an kâ apishinihtâuchihch châkwân) ",
+            "note":"the small growth will be cut off"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᒋᑲ ᒥᓂᔑᑲᓅ ᐊᓐ ᑳ ᐊᐱᔑᓂᐦᑖᐅᒋᐦᒡ ᒉᒀᓐ",
+            "term":"chika minishikanû an kâ apishinihtâuchihch chekwân",
+            "note":"the small growth will be cut off"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Side Effects"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Colostomy",
+            "definition":"An operation to make an opening from the colon to the outside of the body through the belly.",
+            "notes":"*check circumstances with Joey"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐊᐱᔒᔥ ᒋᑭ ᒫᑎᔔᑰᓐ ᒋᑎᒋᔒᐦᒡ ᐊᓂᑖᐦ ᒑ ᐅᐦᒋ ᒋᑭᒧᐦᑖᑭᓂᐎᒡ ᐐᐦᒀᔮᐤ ᒑ ᐃᔑ ᐎᔨᐐᐱᔨᒡ ᒋᒫᐃ"
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐊᐱᔒᔥ ᒋᑲ ᒫᑎᔔᑰᓐ ᒋᑕᒋᔒᐦᒡ ᐊᓂᑌᐦ ᒉ ᐅᐦᒋ ᒋᑲᒧᐦᑌᑲᓄᐎᐦᒡ ᐐᐦᑴᔮᐤ ᒉᐃᔑ ᐐᐐᐸᔨᐦᒡ ᒋᒣᐃ"
+         }
+
+      ]
+   },
+   {
+      "Category":[
+         "Colorectal Cancer",
+         " Side Effects"
+      ],
+      "Term":[
+         {
+            "locale":"eng",
+            "term":"Ileostomy",
+            "definition":"An operation to make an opening from the last part of the small intestine to the outside of the body through the belly.",
+            "notes":"*check circumstances with Joey"
+         },
+         {
+            "locale":"crl",
+            "term_syllabics":"ᐊᐱᔒᔥ ᒋᑭ ᒫᑎᔔᑰᓐ ᒋᐳᑎᔒᐦᒡ ᐊᓂᑖᐦ ᒑ ᐅᐦᒋ ᒋᑭᒧᐦᑖᑭᓂᐎᒡ ᐐᐦᒀᔮᐤ ᒑ ᐃᔑ ᐎᔨᐐᐱᔨᒡ ᒋᒫᐃ",
+            "term":"apishîsh chiki mâtishûkûn chitichishîhch anitâh châ uhchi chikimuhtâkiniwich wîhkwâyâu châ ishi wiyiwîpiyich chimâi ",
+            "note":"a small incision will done on the small intestine to attach a colostomy bag for the elimination of bodily waste "
+         },
+         {
+            "locale":"crj",
+            "term_syllabics":"ᐊᐱᔒᔥ ᒋᑲ ᒫᑎᔔᑰᓐ ᒋᐴᒋᔒᐦᒡ ᐊᓂᑌᐦ ᒉ ᐅᐦᒋ ᒋᑲᒧᐦᑖᑲᓄᐎᐦᒡ ᐐᐦᑴᔮᐤ ᒉᐃᔑ ᐐᐐᐸᔨᐦᒡ ᒋᒣᐃ",
+            "term":"apishîsh chika mâtishûkûn chitachishîhch aniteh che uhchi chikamuhtâkanuwihch wîhkweyâu cheishi wîwîpayihch chimei",
+            "note":"a small incision will done on the small intestine to attach a colostomy bag for the elimination of bodily waste"
+         }
+
+      ]
+   }
+
+]

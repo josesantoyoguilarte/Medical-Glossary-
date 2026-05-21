@@ -1,0 +1,54 @@
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+*.suo
+*.user
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ---- Node ----
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+.cache/
+
+# ---- Cordova / Ionic 1 (legacy app under MedicalGlossary/) ----
+MedicalGlossary/platforms/
+MedicalGlossary/plugins/
+MedicalGlossary/node_modules/
+MedicalGlossary/www/lib/
+MedicalGlossary/hooks/
+MedicalGlossary/.sass-cache/
+
+# ---- Capacitor / modern Ionic build output (future MedicalGlossaryV2/) ----
+MedicalGlossaryV2/www/
+MedicalGlossaryV2/dist/
+**/dist/
+**/.angular/
+**/coverage/
+**/build/
+**/.next/
+**/.nuxt/
+
+# Native Capacitor build artifacts (keep platform configs, ignore build output)
+**/ios/App/Pods/
+**/ios/App/build/
+**/ios/DerivedData/
+**/android/.gradle/
+**/android/build/
+**/android/app/build/
+**/android/local.properties
+**/android/captures/
+**/android/.idea/
+
+# ---- Misc archives (use Releases / LFS instead) ----
+*.7z
+*.zip
+*.apk
+*.aab
+*.ipa
