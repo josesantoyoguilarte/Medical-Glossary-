@@ -45,24 +45,46 @@ console is expected when running outside a device.
 
 ## Running the modern app (`MedicalGlossaryV2/`)
 
-*(To be added once Phase 2 lands.)* Expected commands:
+Prerequisites:
+
+- **Node.js 22 LTS** (? 22.12) — required by Angular 20.
+- **Android Studio** + JDK 17 — only needed to build the Android app.
+- **Xcode + CocoaPods** on macOS — only needed to build the iOS app.
 
 ```powershell
-# Prerequisites: Node.js 20 LTS, Android Studio (for Android), Xcode + CocoaPods (for iOS on macOS)
 cd MedicalGlossaryV2
 npm install
 
-# Web (browser, with live reload)
-npm run start
+# 1. Browser (live reload; production build is also an installable PWA that works offline)
+npm start                  # http://localhost:8100
+npm run build              # produces ./www/ (deployable static site + ngsw service worker)
 
-# Android (device or emulator)
+# 2. Android (device or emulator, requires Android Studio one time)
+npm run build
 npx cap sync android
-npx cap run android
+npx cap open android       # build & run from Android Studio
+# or, headless:
+cd android && ./gradlew assembleDebug
 
-# iOS (macOS only)
+# 3. iOS (macOS only)
+npm run build
+npx cap add ios            # one-time, only on macOS
 npx cap sync ios
-npx cap run ios
+npx cap open ios           # build & run from Xcode
 ```
+
+### Continuous integration
+
+The workflow at `.github/workflows/ci.yml` runs on every push / PR to
+`master`:
+
+1. Installs Node 22 + caches `npm`.
+2. Builds the PWA (`npm run build`) and uploads `www/` as an artifact.
+3. Sets up JDK 17 + Gradle, syncs Capacitor, and builds a **debug APK**
+   (`assembleDebug`), uploaded as `app-debug-apk`.
+
+Download either artifact from the Actions tab to test a build without a
+local toolchain.
 
 ## License & credits
 
