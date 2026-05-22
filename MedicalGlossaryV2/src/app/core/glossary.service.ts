@@ -166,8 +166,25 @@ export class GlossaryService {
       shareReplay({ bufferSize: 1, refCount: false }),
     );
 
+  /**
+   * Companion index built offline: the list of entry UUIDs whose Cree
+   * translation matches a file in `audio-manifest.json`. Lets the glossary
+   * list render an audio indicator on a row without paying the cost of
+   * fetching every entry JSON up front.
+   */
+  private readonly audioIndex$ = this.http
+    .get<string[]>(`${this.base}/audio-index.json`)
+    .pipe(
+      map((arr) => new Set(arr)),
+      shareReplay({ bufferSize: 1, refCount: false }),
+    );
+
   audioManifest(): Observable<{ crj: Set<string>; crl: Set<string> }> {
     return this.audioManifest$;
+  }
+
+  audioIndex(): Observable<Set<string>> {
+    return this.audioIndex$;
   }
 
   /**

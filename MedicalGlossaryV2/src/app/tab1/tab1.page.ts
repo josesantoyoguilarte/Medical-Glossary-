@@ -28,12 +28,14 @@ export class Tab1Page implements OnInit {
     crj: new Set(),
     crl: new Set(),
   };
+  private audioIndex: Set<string> = new Set();
 
   results: TermSummary[] = [];
   loading = true;
 
   ngOnInit(): void {
     this.glossary.audioManifest().subscribe((m) => (this.audioManifest = m));
+    this.glossary.audioIndex().subscribe((idx) => (this.audioIndex = idx));
     combineLatest([
       this.query$.pipe(debounceTime(150), distinctUntilChanged()),
     ])
@@ -88,6 +90,11 @@ export class Tab1Page implements OnInit {
       this.results = rows.slice(0, 200);
       this.expanded.set({});
     });
+  }
+
+  /** Whether any Cree translation of this term has a bundled pronunciation. */
+  hasAudio(uuid: string): boolean {
+    return this.audioIndex.has(uuid);
   }
 
   /** Build the audio URL if a recording exists for this Cree translation. */

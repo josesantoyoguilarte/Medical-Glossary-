@@ -36,6 +36,7 @@
           "/assets/data/glossary.json",
           "/assets/data/tree-map.json",
           "/assets/data/audio-manifest.json",
+          "/assets/data/audio-index.json",
           "/assets/data/*/terms.json"
         ]
       }

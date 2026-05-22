@@ -55,7 +55,16 @@
             </ion-icon>
           </ion-button>
           <ion-label>
-            <h2>{{ t.term }}</h2>
+            <h2>
+              {{ t.term }}
+              <ion-icon
+                *ngIf="hasAudio(t.uuid)"
+                name="volume-medium-outline"
+                color="primary"
+                class="audio-indicator"
+                aria-label="Pronunciation available">
+              </ion-icon>
+            </h2>
             <p *ngIf="t.definition" [innerHTML]="t.definition"></p>
           </ion-label>
           <ion-icon
